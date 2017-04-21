@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7258339]]></PRODNUM>
+        <VERSAO><![CDATA[9475]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Instituto Federal de Educacao, Ciencia e Tecnologia de Alagoas]]></ORGAO>
+        <CODORGAO><![CDATA[27259]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Odilon Vasconcelos, 103]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(0XX82) 31941105]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Maceio]]></CIDADE>
+        <UF><![CDATA[AL]]></UF>
+        <EDITAL><![CDATA[13/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[18/10/2016 08:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 158147  PREGAO ELETRONICO -  SERVICOS DE ELABORACAO DE PROJETOS, COM APROVACAO DOS MESMOS PELOS ORGAOS COMPETENTES QUANDO EXIGIDO POR LEI, PARA ATENDER AS NECESSIDADES DO IFAL ? CAMPUS SATUBA, COM FORNECIMENTO TOTAL DE MATERIAIS, INSTALACOES DE EQUIPAMENTOS E MAO DE OBRA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 158147            {{25-621255}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasNetAlteracao/2016/outubro/17491alteracao.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257344]]></PRODNUM>
+        <VERSAO><![CDATA[9475]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Sao Luis do Curu]]></ORGAO>
+        <CODORGAO><![CDATA[12689]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Rochael Moreira, 98]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(85) 3355-1015 ramal 221]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Luis do Curu]]></CIDADE>
+        <UF><![CDATA[CE]]></UF>
+        <EDITAL><![CDATA[2/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA A REALIZACAO DE CONCURSO PUBLICO MUNICIPAL PARA O PROVIMENTO DE CARGOS EFETIVOS DE NIVEL SUPERIOR, MEDIO E FUNDAMENTAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7231774]]></PRODNUM>
+        <VERSAO><![CDATA[9475]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao e Retificacao do Edital]]></SITUACAO>
+        <ORGAO><![CDATA[FUNSAU - Fundacao de Servicos de Saude de MS]]></ORGAO>
+        <CODORGAO><![CDATA[7090]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Parque dos Poderes - Bloco I]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(67) 3312-1400]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Campo Grande]]></CIDADE>
+        <UF><![CDATA[MS]]></UF>
+        <EDITAL><![CDATA[47/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 08:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM PROCESSO SELETIVO PARA O PROGRAMA DE RESIDENCIA MEDICA E MUL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[ALTERAÇÕES: 1) Alterar no Anexo I”A” – TERMO DE REFERÊNCIA, no subitem 9.1., a
+alínea “c”, passando a constar a seguinte redação: c) Atestado(s) de Capacidade Técnica
+da licitante, emitido(s) por entidade da Administração Federal, Estadual ou Municipal,
+direta ou indireta e/ou empresa privada que comprove, de maneira satisfatória, a aptidão
+para desempenho de atividades pertinentes ao objeto a ser licitado.]]></OBS>
+        <SITE><![CDATA[http://www.centraldecompras.ms.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasms/2016/setembro/1533.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257470]]></PRODNUM>
+        <VERSAO><![CDATA[9475]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[CPTM-Cia. Paulista de Trens MetropoIitanos]]></ORGAO>
+        <CODORGAO><![CDATA[3704]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[http://www.bec.sp.gov.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 3293-4689]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[8316151061]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[REPUBLICACAO) PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM PLANEJAMENTO, ORGANIZACAO, REALIZACAO E EXECUCAO DE CONCURSO PUBLICO PARA PROVIMENTO DE CARGOS DA CPTM PROCESSO: 8316151061R]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 8316151061R            {{168-1092668}}]]></OBS>
+        <SITE><![CDATA[http://www.cptm.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/enegocios/2016/outubro/EN10926681103873.pdf *** 
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

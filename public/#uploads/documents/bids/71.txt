@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7245586]]></PRODNUM>
+        <VERSAO><![CDATA[9476]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Universidade do Estado do Para]]></ORGAO>
+        <CODORGAO><![CDATA[15618]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua do Una, 156]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(91) 3299-2260]]></FONE>
+        <FAX><![CDATA[(0XX91)]]></FAX>
+        <OBSORGAO><![CDATA[horario de atendimento: das 8h00 as 14h00]]></OBSORGAO>
+        <CIDADE><![CDATA[Belem]]></CIDADE>
+        <UF><![CDATA[PA]]></UF>
+        <EDITAL><![CDATA[43/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[13/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 925611  PREGAO ELETRONICO -  AQUISICAO DE MATERIAL DE CONSUMO PARA A EXECUCAO DO PROCESSO SELETIVO DA UNIVERSIDADE DO ESTADO DO PARA, DE ACORDO COM AS QUANTIDADES E ESPECIFICACOES CONSTANTES NO TERMO DE REFERENCIA, ANEXO I DO EDITAL.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 925611            {{25-641045}}]]></OBS>
+        <SITE><![CDATA[http://www.uepa.br / www.comprasnet.gov.br / www.compraspara.pa.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/setembro/641045.zip *** 
+	http://www.licitacao.com.br/editais/comprasNetAlteracao/2016/outubro/17562alteracao.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

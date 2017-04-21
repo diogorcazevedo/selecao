@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7277198]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Esplanada]]></ORGAO>
+        <CODORGAO><![CDATA[10198]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Monsenhor Zacarias Luz, s/n.]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(75) 3427-1313]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[Horario de Atendimento: das 08:00 as 12:00 horas]]></OBSORGAO>
+        <CIDADE><![CDATA[ESPLANADA]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[69/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[28/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA ESPECIALIZADA NA ORGANIZACAO E REALIZACAO DE CONCURSO PUBLICO DE PROVAS E TITULOS PARA PROVIMENTO DOS CARGOS PERMANENTES DO QUADRO DE SERVIDORES EFETIVOS DO MUNICIPIO DE ESPLANADA/BA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7280888]]></PRODNUM>
+        <VERSAO><![CDATA[9494]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Horizonte]]></ORGAO>
+        <CODORGAO><![CDATA[10487]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Presidente Castelo Branco, 5100]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(85) 3336-6021/6022]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[HORIZONTE]]></CIDADE>
+        <UF><![CDATA[CE]]></UF>
+        <EDITAL><![CDATA[10.05.1/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[17/11/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM ORGANIZACAO E REALIZACAO DE CONCURSO PUBLICO PARA PROVIMENTO DE CARGOS DO QUADRO EFETIVO DE RECURSOS HUMANOS NO AMBITO DA PREFEITURA MUNICIPAL DE HORIZONTE]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7275049]]></PRODNUM>
+        <VERSAO><![CDATA[9489]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Carolina]]></ORGAO>
+        <CODORGAO><![CDATA[9738]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Alipio Carvalho, 50]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(99) 3531-2160]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CAROLINA]]></CIDADE>
+        <UF><![CDATA[MA]]></UF>
+        <EDITAL><![CDATA[19/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[28/10/2016 09:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM SERVICO TECNICO, ORGANIZACAO E REALIZACAO DE CONCURSO PUBLICO PARA O PROVIMENTO DE CARGOS EFETIVOS DO QUADRO DE PESSOAL DO
+MUNICIPIO DE CAROLINA]]></OBJETO>
+        <PREDITAL><![CDATA[R$30,00]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7278725]]></PRODNUM>
+        <VERSAO><![CDATA[9492]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Matipo]]></ORGAO>
+        <CODORGAO><![CDATA[11259]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca da Independencia, 242]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(31) 3873-1645/1680]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[MATIPO]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[26/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[28/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO PARA PRESTACAO DE SERVICOS NA EXECUCAO DE CONCURSO PUBLICO DE PROVAS
+E TITULOS, INCLUIDOS OS SERVICOS DE ELABORACAO DE EDITAL, INSCRICOES, ELABORACAO, APLICACAO E CORRECAO DE PROVAS, INCLUSIVE PROVAS PRATICAS, DIVULGACAO DE RESULTADOS, PARECER EM EVENTUAIS RECURSOS E DEMAIS ROTINAS NECESSARIAS A EXECUCAO DOS SERVICOS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7275888]]></PRODNUM>
+        <VERSAO><![CDATA[9490]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Nova Era]]></ORGAO>
+        <CODORGAO><![CDATA[11511]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Joao Pinheiro, 91]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(31) 3861-4204]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[NOVA ERA]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[37/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[31/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA REALIZACAO DO CONCURSO PUBLICO PARA ATENDER A SECRETARIA DE ADMINISTRACAO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7231774]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Retificacao de Informacao]]></SITUACAO>
+        <ORGAO><![CDATA[FUNSAU - Fundacao de Servicos de Saude de MS]]></ORGAO>
+        <CODORGAO><![CDATA[7090]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Parque dos Poderes - Bloco I]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(67) 3312-1400]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Campo Grande]]></CIDADE>
+        <UF><![CDATA[MS]]></UF>
+        <EDITAL><![CDATA[47/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 08:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM PROCESSO SELETIVO PARA O PROGRAMA DE RESIDENCIA MEDICA E MUL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[RETIFICACOES ANEXA
+
+ALTERAÇÕES: 1) Alterar no Anexo I”A” – TERMO DE REFERÊNCIA, no subitem 9.1., a
+alínea “c”, passando a constar a seguinte redação: c) Atestado(s) de Capacidade Técnica
+da licitante, emitido(s) por entidade da Administração Federal, Estadual ou Municipal,
+direta ou indireta e/ou empresa privada que comprove, de maneira satisfatória, a aptidão
+para desempenho de atividades pertinentes ao objeto a ser licitado.]]></OBS>
+        <SITE><![CDATA[http://www.centraldecompras.ms.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasms/2016/setembro/1533.zip *** 
+	http://www.licitacao.com.br/editais/diversos/2016/outubro/2ºADENDO_7231774.doc *** 
+	http://www.licitacao.com.br/editais/diversos/2016/outubro/RETIFICAÇAO_2ºADENDO_7231774.doc *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7280214]]></PRODNUM>
+        <VERSAO><![CDATA[9493]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Magalhaes Barata]]></ORGAO>
+        <CODORGAO><![CDATA[11135]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Lauro Sodre, s/n]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(91) 3812-3032 / (91) 9108-3856]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[MAGALHAES BARATA]]></CIDADE>
+        <UF><![CDATA[PA]]></UF>
+        <EDITAL><![CDATA[15/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[01/11/2016 08:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA NA ORGANIZACAO E EXECUCAO DE CONCURSO PUBLICO DE CARGOS EFETIVOS CUJA FINALIDADE E ATENDER AS NECESSIDADES DA PREFEITURA MUNICIPAL DE MAGALHAES BARATA/PA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7280615]]></PRODNUM>
+        <VERSAO><![CDATA[9493]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Camara Municipal  de Diamante]]></ORGAO>
+        <CODORGAO><![CDATA[32213]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Possidonio Jose da Costa, N 1.129]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(83) 3494-1034]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[DIAMANTE]]></CIDADE>
+        <UF><![CDATA[PB]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[21/11/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA PARA PRESTACAO DE SERVICOS TECNICOS
+ESPECIALIZADOS EM ORGANIZACAO E EXECUCAO DE CONCURSO PUBLICO PARA
+PROVIMENTO DE CARGOS PUBLICOS DO QUADRO DE PESSOAL DA CAMARA MUNICIPAL
+DE DIAMANTE-PB]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7236636]]></PRODNUM>
+        <VERSAO><![CDATA[9493]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao e Retificacao do Edital]]></SITUACAO>
+        <ORGAO><![CDATA[Conselho Regional de Fisioterapia e Terapia Ocupacional]]></ORGAO>
+        <CODORGAO><![CDATA[28377]]></CODORGAO>
+        <COMPLORGAO><![CDATA[1ª regiao]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Sede do Conselho]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(81) 3081-5000]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Recife]]></CIDADE>
+        <UF><![CDATA[PE]]></UF>
+        <EDITAL><![CDATA[2/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[08/11/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA REALIZACAO DE CONCURSO PUBLICO, CONFORME CONDICOES DO EDITAL E SEUS ANEXOS. INICIO DA ENTREGA DAS PROPOSTAS DE PRECO: AS 14H DO DIA 26/09/2016. INICIO DA SESSAO DE DISPUTA: AS 15H DO DIA 05/10/2016. O EDITAL PODERA SER OBTIDO NO SITE DO BANCO DO BRASIL ATRAVES DO ENDERECO ELETRONICO HTTP://WWW.LICITACOES-E.COM.BR E NA SEDE DO CREFITO-1 (RUA HENRIQUE DIAS, 303 - BOA VISTA - RECIFE/PE). INFORMACOES PELO E-MAIL: LICITACAO@CREFITO1.ORG.BR OU PELO FONE: (81) 3081-5000. - 647366]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 002  - Numero da licitacao: 647366          {{186-266565}}]]></OBS>
+        <SITE><![CDATA[e-mail: licitacao@crefito1.org.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/BBnovo/2016/setembro/266565.zip *** 
+	http://www.licitacao.com.br/editais/BBnovo/2016/outubro/266565.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7275163]]></PRODNUM>
+        <VERSAO><![CDATA[9493]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Secretaria Municipal de Administracao e Recursos Humanos]]></ORGAO>
+        <CODORGAO><![CDATA[14561]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Firmino Pires, 121 C/N]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Terreo]]></COMPLENDERECO>
+        <FONE><![CDATA[(86)3222-6631/ 3215-7619]]></FONE>
+        <FAX><![CDATA[(86) 3215 -7619]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Teresina]]></CIDADE>
+        <UF><![CDATA[PI]]></UF>
+        <EDITAL><![CDATA[2/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[06/12/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA COM COMPROVADA EXPERIENCIA E CAPACIDADE TECNICA NA PRESTACAO DE SERVICO TECNICO PROFISSIONAL, VISANDO EFETUAR LEVANTAMENTO TOPOGRAFICO GEORREFERENCIADO, BEM COMO A DEMARCACAO DA AREA FOREIRA DO MUNICIPIO DE TERESINA E REGULARIZACAO CARTORIAL.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[TELEFONE: (0XX86) 3215-7619{{102-19718}}]]></OBS>
+        <SITE><![CDATA[www.teresina.pi.gov.br e ecompras.teresina.pi.gov.br
+email: sema.cpcomprasl@teresina.pi.gov. br e
+semacpl.teresina@hotmail.com]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/tcepi/2016/outubro/19718.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7274800]]></PRODNUM>
+        <VERSAO><![CDATA[9489]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Rio Negro]]></ORGAO>
+        <CODORGAO><![CDATA[12239]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Juvenal Ferreira Pinto, 2070]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(47) 3642-5556]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[RIO NEGRO]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[1/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[SM]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[09/12/2016 17:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONCURSO FOTOGRAFICO “REVELANDO RIO NEGRO”, TEMA: “RIO NEGRO, MEMORIAS, CORES E HISTORIA”]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[Banco do Brasil - Ag.: 2543-7 - Conta: 73.407-1]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO LICITATÓRIO N.º 305/2016 CONCURSO CULTURAL N.º 001/2016]]></OBS>
+        <SITE><![CDATA[www.prefeiturarionegro.com.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7276976]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Monte Alegre dos Campos]]></ORGAO>
+        <CODORGAO><![CDATA[11364]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Pedro Zambam, 1000]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(54) 3231-1044 ]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[MONTE ALEGRE DOS CAMPOS]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[30/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[03/11/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA ELABORACAO DE CONCURSO PUBLICO PARA PROVIMENTO DE CARGOS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[site: www.montealegredoscampos.rs.gov.br
+e-mail: licita.mac@hotmail.com]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7278271]]></PRODNUM>
+        <VERSAO><![CDATA[9493]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Ministerio Publico do Estado do Rio Grande do Sul]]></ORGAO>
+        <CODORGAO><![CDATA[13468]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Procuradoria Geral de Justica]]></COMPLORGAO>
+        <ENDERECO><![CDATA[www.pregaobanrisul.com.br/  http://www.mp.rs.gov.br/licitacao/pregao_eletronico]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3295-1100]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Porto Alegre]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[92/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[31/10/2016 11:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS DE ORGANIZACAO E EXECUCAO DA APLICACAO DA PROVA OBJETIVA DO CONCURSO PUBLICO PARA O CARGO DE SECRETARIO DE DILIGENCIAS DA PROCURADORIA-GERAL DE JUSTICA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[1 PROCESSO: 001833-09.00/16-4{{4-15773}}]]></OBS>
+        <SITE><![CDATA[http://www.mp.rs.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/banrisul/2016/outubro/15773.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7278206]]></PRODNUM>
+        <VERSAO><![CDATA[9492]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Campo Alegre]]></ORGAO>
+        <CODORGAO><![CDATA[9573]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Cel. Bueno Franco, 292]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(47) 3632-2266 ]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CAMPO ALEGRE]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[89/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA PARA PRESTACAO DE SERVICOS DE ELABORACAO E EXECUCAO DE CONCURSO PUBLICO E PROCESSO SELETIVO PARA O MAGISTERIO DO MUNICIPIO DE CAMPO ALEGRE/SC]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.campoalegre.sc.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7277269]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Santo Amaro da Imperatriz]]></ORGAO>
+        <CODORGAO><![CDATA[12481]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Gov. Ivo Silveira, 306]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(0xx48) 3245-4326]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[SANTO AMARO DA IMPERATRIZ]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[9/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA A REALIZACAO DE PROCESSO
+SELETIVO DESTINADOS AO PROVIMENTO DE CARGOS DA PREFEITURA MUNICIPAL
+DE SANTO AMARO DA IMPERATRIZ]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.santoamaro.sc.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7275458]]></PRODNUM>
+        <VERSAO><![CDATA[9489]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Chapadao do Lageado]]></ORGAO>
+        <CODORGAO><![CDATA[22561]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Allan Regis Inacio, 15]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(47) 3537-0072 / 0073 / ]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CHAPADAO DO LAGEADO]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[55/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[26/10/2016 08:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA OU ENTIDADE ESPECIALIZADA A REALIZACAO DE PROCESSO
+SELETIVO PARA A CONTRATACAO DE PESSOAL EM CARATER TEMPORARIO, CONFORME
+ESPECIFICACOES CONSTANTES NO TERMO DE REFERENCIA – ANEXO II.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.chapadaodolageado.sc.gov.br/
+
+compras@chapadaodolageado.sc.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257470]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Adiamento SINE-DIE]]></SITUACAO>
+        <ORGAO><![CDATA[CPTM-Cia. Paulista de Trens MetropoIitanos]]></ORGAO>
+        <CODORGAO><![CDATA[3704]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[http://www.bec.sp.gov.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 3293-4689]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[8316151061]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[REPUBLICACAO) PRESTACAO DE SERVICOS TECNICOS ESPECIALIZADOS EM PLANEJAMENTO, ORGANIZACAO, REALIZACAO E EXECUCAO DE CONCURSO PUBLICO PARA PROVIMENTO DE CARGOS DA CPTM PROCESSO: 8316151061R]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 8316151061R            {{168-1092668}}]]></OBS>
+        <SITE><![CDATA[http://www.cptm.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/enegocios/2016/outubro/EN10926681103873.pdf *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7273766]]></PRODNUM>
+        <VERSAO><![CDATA[9488]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Fundacao CASA - Centro de Atendimento Socio Educativo ao Adolescente ]]></ORGAO>
+        <CODORGAO><![CDATA[6325]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Florencio de Abreu, 848]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[7 andar]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 6846 - 9000 
+ramais: 9047, 9048, 9049, 9050 e 9137]]></FONE>
+        <FAX><![CDATA[(11) 3326 - 4219]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[29/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[SM]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[16/11/2016      ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[A FUNDACAO CASA-SP, REPRESENTADA PELA COMISSAO DE SELECAO, DESIGNADA PELA PORTARIA ADMINISTRATIVA NO 974/2016, TORNA PUBLICO QUE REALIZARA PROCESSO SELETIVO DE ORGANIZACOES DA SOCIEDADE CIVIL PARA A GESTAO COMPARTILHADA DO CENTRO DE ATENDIMENTO SOCIOEDUCATIVO ITANHAEM NO MUNICIPIO DE ITANHAEM.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[A SESSAO PUBLICA PARA ENTREGA DOS ENVELOPES 1 E 2, INICIARA AS 10H00M - 16 DE NOVEMBRO DE 2016, NA FUNDACAO CASA-SP SITO A RUA FLORENCIO DE ABREU 848, LUZ 1O ANDAR.{{202-17}}]]></OBS>
+        <SITE><![CDATA[http://www.casa.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/febem/2016/outubro/17.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7276763]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Casa Branca]]></ORGAO>
+        <CODORGAO><![CDATA[9745]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Rui Barbosa, 56]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(19) 3671-9778]]></FONE>
+        <FAX><![CDATA[19 6711272]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CASA BRANCA]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[50/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[03/11/2016 08:50]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA A PRESTACAO DE
+SERVICOS DE REALIZACAO DO PROCESSO SELETIVO SIMPLIFICADO PARA A
+CONTRATACAO DE PROFESSORES PARA O EXERCICIO DE 2017, EM CARATER
+EXCEPCIONAL TEMPORARIO, COMO SUBSTITUICOES OU EM CASOS ONDE
+AS AULAS NAO CONSTITUAM A POSSIBILIDADE DE CRIACAO DE EMPREGO
+EFETIVO DEVIDO A SUA EVENTUALIDADE, PARA O DEPARTAMENTO MUNICIPAL
+DE EDUCACAO.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[licitacao@casabranca.sp.gov.br .]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7255118]]></PRODNUM>
+        <VERSAO><![CDATA[9491]]></VERSAO>
+        <SITUACAO><![CDATA[Reabertura]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Guaratingueta]]></ORGAO>
+        <CODORGAO><![CDATA[10451]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Jacques Felix, 02]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(12) 3128-2800 ]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[GUARATINGUETA]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[106/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[04/11/2016 13:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA ASSESSORIA
+E REALIZACAO DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.guaratingueta.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

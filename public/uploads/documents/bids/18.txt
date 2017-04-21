@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7228137]]></PRODNUM>
+        <VERSAO><![CDATA[9452]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[CONAB-Companhia Nacional do Abastecimento]]></ORGAO>
+        <CODORGAO><![CDATA[3408]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Superintendencia Regional da Paraiba]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Cel. Estevao D`Avila Lins, s/n ]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Cruz das Armas]]></COMPLENDERECO>
+        <FONE><![CDATA[(83)3242-6863]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Joao Pessoa]]></CIDADE>
+        <UF><![CDATA[PB]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[28/09/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 135476  PREGAO ELETRONICO -  CONTRATACAO DE ENTIDADE SEM FINS LUCRATIVOS   ESFL, INSCRITA E APROVADA NO CADASTRO NACIONAL DE APRENDIZAGEM, PARA RECRUTAR, SELECIONAR, PREPARAR, CAPACITAR E ENCAMINHAR 13 (TREZE) APRENDIZES A SUPERINTENDENCIA REGIONAL DA CONAB NA PARAIBA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 135476            {{25-636807}}]]></OBS>
+        <SITE><![CDATA[www.comprasnet.gov.]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/setembro/636807.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

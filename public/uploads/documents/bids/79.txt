@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262418]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[CAR-Companhia de Desenvolvimento e Acao Regional]]></ORGAO>
+        <CODORGAO><![CDATA[2119]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Luiz Viana Filho, 250 - Av. II]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Conjunto SEPLAN - CAB]]></COMPLENDERECO>
+        <FONE><![CDATA[(71) 3115-3642]]></FONE>
+        <FAX><![CDATA[(71) 3115-3916]]></FAX>
+        <OBSORGAO><![CDATA[Horario de Atendimento: das 14:00 as 18:00 horas]]></OBSORGAO>
+        <CIDADE><![CDATA[Salvador]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[4/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[22/11/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA ELABORACAO DE DIAGNOSTICO QUALIFICADO DE INFRAESTRUTURA E SERVICO (DQIS), CADASTRO ESTADUAL FLORESTAL DE IMOVEIS RURAIS (CEFIR) E PLANOS DE ORGANIZACAO TERRITORIAL DE PROJETOS DE ASSENTAMENTO (POTPA)]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.car.ba.gov.br / www.licitacoes-e.com.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257274]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Ilheus]]></ORGAO>
+        <CODORGAO><![CDATA[10578]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Santos Dumond, s/n]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(073) 3234-3541-5542-3575]]></FONE>
+        <FAX><![CDATA[(073) 3234-3545]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[ILHEUS]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[41/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[SERVICO EM PLANO DE MIDIA, PARA DIVULGACAO DO CADASTRAMENTO E RECADASTRAMENTO DO BOLSA FAMILIA, NAS AREAS DE SAUDE EDUCACAO E SOCIAL, COM O INTUITO DE ALCANCAR O TETO DO IGD]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261517]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Secretaria Estadual de Saude]]></ORGAO>
+        <CODORGAO><![CDATA[14176]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Superintendencia de Assistencia Farmaceutica, Ciencia e Tecnologia em Saude ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[4. Av. Plataforma 6 Lado B]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[2. andar sala 214 -Saftec]]></COMPLENDERECO>
+        <FONE><![CDATA[(71) 3115-4241]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Salvador]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[37/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 08:45]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA PARA DISPONIBILIZACAO DE INFRAESTRUTURA LOGISTICA PARA REALIZACAO DE CURSOS /SEMINARIOS/QUALIFICACAO NA AREA DE VIGILANCIA EM SAUDE.(VER DETERMINACOES ADICIONAIS NO EDITAL.) - 649185]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 0300160421383  - Numero da licitacao: 649185          {{186-268313}}]]></OBS>
+        <SITE><![CDATA[www.comprasnet.ba.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262585]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Secretaria Estadual de Saude]]></ORGAO>
+        <CODORGAO><![CDATA[14176]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Diretoria de Vigilancia Epidemiologica]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Metodio Coelho, 55]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Predio da DIVEP - Av. ACM (Junto ao INOA)]]></COMPLENDERECO>
+        <FONE><![CDATA[(71) 3116-0046 ]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Salvador]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[37/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA PARA DISPONIBILIZACAO DE INFRAESTRUTURA LOGISTICA PARA REALIZACAO DE CURSOS / SEMINARIOS/QUALIFICACAO NA AREA DE VIGILANCIA EM SAUDE]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.comprasnet.ba.gov.br ]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261439]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Aratuba]]></ORGAO>
+        <CODORGAO><![CDATA[9088]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Julio Pereira, 304]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(85) 3329-1132]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[ARATUBA]]></CIDADE>
+        <UF><![CDATA[CE]]></UF>
+        <EDITAL><![CDATA[3/16]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 09:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS ESPECIALIZADOS NO LEVANTAMENTO DE DADOS PARA A APURACAO DE DEBITOS TRIBUTARIOS RELATIVAMENTE A IDENTIFICACAO DE VALORES A SEREM RESTITUIDOS A PREFEITURA DO MUNICIPIO DE ARATUBA/CE, CONFORME ESPECIFICACOES EM ANEXO DO EDITAL.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 003/16-PP-SAF{{125-25681}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/tcmce_novo/2016/outubro/25681.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262392]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Brejo Santo]]></ORGAO>
+        <CODORGAO><![CDATA[9420]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Jose Matias Sampaio, 234]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(88) 3531-1042]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[horario de atendimento: das 8h00 as 12h00]]></OBSORGAO>
+        <CIDADE><![CDATA[BREJO SANTO]]></CIDADE>
+        <UF><![CDATA[CE]]></UF>
+        <EDITAL><![CDATA[10.06.001/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[25/10/2016 08:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA ELABORACAO DO PLANO MUNICIPAL DE SANEAMENTO BASICO DE BREJO SANTO-CE, CONFORME PLANO DE TRABALHO. TIPO: MENOR PRECO GLOBAL. REGIME DE EXECUCAO: INDIRETA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262531]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Fortaleza]]></ORGAO>
+        <CODORGAO><![CDATA[10291]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua do Rosario, 77]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Ed. Comte Vital Rolim]]></COMPLENDERECO>
+        <FONE><![CDATA[(85) 3105-1150]]></FONE>
+        <FAX><![CDATA[(85) 3252-1630]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Fortaleza]]></CIDADE>
+        <UF><![CDATA[CE]]></UF>
+        <EDITAL><![CDATA[11/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[RDC]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[25/11/2016 09:45]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[REGISTRO DE PRECOS PARA EVENTUAL E FUTURA CONTRATACAO DE EMPRESA ESPECIALIZADA NA ELABORACAO DE PROJETOS DE ARQUITETURA, URBANISMO, PAISAGISMO, ENGENHARIA,
+ORCAMENTO E COMPATIBILIZACAO DOS PROJETOS, COM O OBJETIVO DE ATENDER
+AS NECESSIDADES DA REDE MUNICIPAL DE ENSINO DE FORTALEZA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.fortaleza.ce.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261047]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Agencia Nacional das Aguas ]]></ORGAO>
+        <CODORGAO><![CDATA[329]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Setor Policial Sul - Area 5 - Quadra 3 - Bloco B]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[2.andar]]></COMPLENDERECO>
+        <FONE><![CDATA[(61) 2109-5182]]></FONE>
+        <FAX><![CDATA[ (61) 2109-5488 ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Brasilia]]></CIDADE>
+        <UF><![CDATA[DF]]></UF>
+        <EDITAL><![CDATA[S.N]]></EDITAL>
+	<MODALIDADE><![CDATA[SM]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Realizacao]]></TPPRAZO>
+        <PRAZO><![CDATA[04/11/2016 ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[EXECUCAO DO PROGRAMA DE DESENVOLVIMENTO DO SETOR AGUA - INTERAGUAS, E
+PRETENDE APLICAR PARTE DO MONTANTE DOS FUNDOS NO SEGUINTE SERVICO DE
+CONSULTORIA: CONTRATACAO DE SERVICO DE CONSULTORIA ESPECIALIZADA PARA A
+CONCLUSAO DO PLANO NACIONAL DE SEGURANCA HIDRICA - CRITERIOS, SELECAO E
+DETALHAMENTO DE INTERVENCOES ESTRATEGICAS.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[** AVISO MANIFESTAÇÃO DE INTERESSE **
+O interessado deverá enviar a Manifestação de Interesse com o
+respectivo Portfolio, pessoalmente ou pelo correio, para o endereço indicado
+abaixo ou encaminhar por e-mail (arquivo com até 10 mega bytes)
+para cel.interaguas@ana.gov.br até o dia 04/11/2016. No caso de envio
+por e-mail certifique-se que a mensagem e o arquivo foram recebidos]]></OBS>
+        <SITE><![CDATA[www.comprasnet.gov.br ou www.ana.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262689]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[CEB - Companhia Energetica de Brasilia]]></ORGAO>
+        <CODORGAO><![CDATA[2201]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[http://compras.ceb.com.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(61)3465-9317/9018.]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Brasilia]]></CIDADE>
+        <UF><![CDATA[DF]]></UF>
+        <EDITAL><![CDATA[630/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS DE CONSULTORIA PARA ANALISE E  EMISSAO DE LAUDOS DOS PROJETOS DE PESQUISA E DESENVOLVIMENTO, CONFORME OS CRITERIOS ESTABELECIDOS PELA ANEEL UTILIZADOS PARA SELECAO E AVALIACAO.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261634]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[FINEP-Financiadora de Estudos e Projetos]]></ORGAO>
+        <CODORGAO><![CDATA[6359]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[http://www.finep.gov.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Brasilia]]></CIDADE>
+        <UF><![CDATA[DF]]></UF>
+        <EDITAL><![CDATA[18/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 365001  PREGAO ELETRONICO -  CONTRATACAO DE PRESTACAO DE SERVICOS DE AUDITORIA CONTABIL SOBRE AS DEMONSTRACOES FINANCEIRAS DA FINEP ELABORADAS DE ACORDO COM AS PRATICAS CONTABEIS ADOTADAS NO BRASIL E DE OUTROS SERVICOS CORRELATOS, COM EMISSAO DE PARECERES E/OU RELATORIOS.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 365001            {{25-643197}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/outubro/643197.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262581]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SESI - Servico Social da Industria]]></ORGAO>
+        <CODORGAO><![CDATA[15116]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Departamento Nacional]]></COMPLORGAO>
+        <ENDERECO><![CDATA[SBN - Quadra 1 - Bloco C]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Edificio Roberto Simonsen, 2. Andar]]></COMPLENDERECO>
+        <FONE><![CDATA[(61)3317-9891]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Brasilia]]></CIDADE>
+        <UF><![CDATA[DF]]></UF>
+        <EDITAL><![CDATA[25/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CV]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[18/10/2016 15:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA NA PRESTACAO DE SERVICOS DE CONSULTORIA, CONFORME TERMO DE REFERENCIA (ANEXO I) DO INSTRUMENTO CONVOCATORIO. FAZ PARTE DO OBJETO: A)APERFEICOAR O MECANISMO DE ENQUADRAMENTO DOS REGIONAIS EM RELACAO A SUA MATURIDADE MERCADOLOGICA; B)ESTABELECER CRITERIOS QUE DEFINAM CADA NIVEL DE MATURIDADE; C)PROPOR ACOES QUE PROMOVAM A MIGRACAO PARA NIVEIS DE
+MATURIDADE MAIS ELEVADOS, E D)DESENVOLVER A ESTRATEGIA DE MONITORAMENTO DO CICLO DE EVOLUCAO DOS REGIONAIS.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.sesi.org.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262579]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SESI - Servico Social da Industria]]></ORGAO>
+        <CODORGAO><![CDATA[15116]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Departamento Nacional]]></COMPLORGAO>
+        <ENDERECO><![CDATA[SBN - Quadra 1 - Bloco C]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Edificio Roberto Simonsen, 2. Andar]]></COMPLENDERECO>
+        <FONE><![CDATA[(61)3317-9891]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Brasilia]]></CIDADE>
+        <UF><![CDATA[DF]]></UF>
+        <EDITAL><![CDATA[24/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CV]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[18/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA NA PRESTACAO DE SERVICOS DE CONSULTORIA PARA ESTRUTURACAO DE MODELO DE APLICACAO PRATICA DAS DIRETRIZES DE PRECIFICACAO COM FOCO NO PORTFOLIO DE BASE NACIONAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.sesi.org.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7258768]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SESI-Servico Social da Industria]]></ORGAO>
+        <CODORGAO><![CDATA[15118]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Nossa Senhora da Penha, 2053 - 7. andar]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[www.licitacoes-e.com.br.]]></COMPLENDERECO>
+        <FONE><![CDATA[(27) 3334-5600]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Vitoria]]></CIDADE>
+        <UF><![CDATA[ES]]></UF>
+        <EDITAL><![CDATA[82/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 08:15]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM SERVICOS DE SOLUCAO DE PAGAMENTO POR MEIO ELETRONICO, QUE REALIZE CAPTURA, ROTEAMENTO, TRANSMISSAO E PROCESSAMENTO DE TRANSACOES FINANCEIRAS NOS RECEBIMENTOS POR CARTAO DE CREDITO E DEBITO, COM ACEITACAO MINIMA DAS BANDEIRAS VISA E MASTERCARD , PARA  RECEBIMENTO DOS SERVICOS PRESTADOS PELAS ENTIDADES DO SISTEMA FINDES (SESI/SENAI/ IEL). - 647906]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 082/2016  - Numero da licitacao: 647906          {{186-268110}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/BBnovo/2016/outubro/268110.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257429]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Goiania]]></ORGAO>
+        <CODORGAO><![CDATA[10364]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Comissao Geral de Licitacao]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. do Cerrado, 999]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(062) 3254-6320/3524-6315]]></FONE>
+        <FAX><![CDATA[(62)3524-1086]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Goiania]]></CIDADE>
+        <UF><![CDATA[GO]]></UF>
+        <EDITAL><![CDATA[S.N]]></EDITAL>
+	<MODALIDADE><![CDATA[SM]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[14/10/2016 17:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[OS SERVICOS DE CONSULTORIA ("SERVICOS") INCLUEM A CONSULTORIA DE EMPRESA ESPECIALIZADA PARA CONCEPCAO E IMPLEMENTACAO DE MODELO DE GESTAO INTEGRADA DAS AGUAS URBANAS NO MUNICIPIO DE GOIANIA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.goiania.go.gov.br / www.licitacoes-e.com.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/diversos/2016/outubro/7257429.doc *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261274]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Ipatinga]]></ORGAO>
+        <CODORGAO><![CDATA[10624]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Maria Jorge Selim de Salles, 100]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[2. andar]]></COMPLENDERECO>
+        <FONE><![CDATA[(31) 3829-8240 / 8203 / 8000]]></FONE>
+        <FAX><![CDATA[(31)3829-8248 ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[IPATINGA]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[27/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[07/11/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[SELECAO DE PESSOA JURIDICA ESPECIALIZADA PARA PRESTACAO DE SERVICOS DE ASSISTENCIA PSICOLOGICA, ENQUANTO ACAO DE CAPACITACAO, AS CONSELHEIRAS TUTELARES DO MUNICIPIO DE IPATINGA, DE ACORDO COM AS CONDICOES CONSTANTES NO ANEXO I - TERMO DE REFERENCIA, DO EDITAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[email: ipatinga.sae@gmail.com ]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7256158]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Retificacao de Edital]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Sao Gotardo]]></ORGAO>
+        <CODORGAO><![CDATA[12588]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Professora Maria Coeli Franco, 13]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(34) 3671-7103 / 4480]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[SAO GOTARDO]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[44/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016 08:45]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA EXECUCAO DE SERVICOS DE ELABORACAO DE PPRA (PROGRAMA DE PREVENCAO DE RISCO AMBIENTAIS), PCMSO (PROGRAMA DE CONTROLE MEDICO DE SAUDE OCUPACIONAL), LTCAT (LAUDO TECNICO DAS CONDICOES AMBIENTAIS DE TRABALHO) E PPP (PERFI L PROFI SSIOGRAFI CO PREVIDENCIARIO) EM ATENDIMENTO A SECRETARIA MUNICIPAL
+DE ADMINISTRACAO, FAZENDA E PLANEJAMENTO DO MUNICIPIO DE SAO GOTARDO/MG]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/diversos/2016/outubro/7256158.dotx *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7260979]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Vicosa]]></ORGAO>
+        <CODORGAO><![CDATA[13261]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca do Rosario, 05]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(31) 3891-3714]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[VICOSA]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[S.N]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016 08:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE INSTITUICAO FI NANCEIRA PARA CENTRALIZAR E PROCESSAR OS CREDITOS DA FOLHA DE PAGAMENTO DE TODOS OS SERVIDORES DA ADMINISTRACAO PUBLICA MUNICIPAL
+DIRETA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[site www.vicosa.mg.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7258634]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Servico Autonomo de Agua e Esgoto de Mantena]]></ORGAO>
+        <CODORGAO><![CDATA[15019]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Antonio Coelho de Souza, 154]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(33)  3241-1299 ]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[MANTENA]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[8/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[18/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[LOCACAO DE SISTEMA INTEGRADO DE GESTAO COMERCIAL E GESTAO ADMINISTRATIVA, RELACIONADA AS SERVICOS DE SANEAMENTO, ENVOLVENDO CONVERSAO DE DADOS, PARA ATENDER AS NECESSIDADES DA ADMINISTRACAO DO SAAE DE MANTENA-MG]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262030]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Bonito de Minas]]></ORGAO>
+        <CODORGAO><![CDATA[21647]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Bom Jesus, 75]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(38) 3625-6101]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[BONITO DE MINAS]]></CIDADE>
+        <UF><![CDATA[MG]]></UF>
+        <EDITAL><![CDATA[34/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[24/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS TECNICOS PROFISSIONAIS PARA PROCEDIMENTO DE REVISAO DO RAT, ANALISE DO FAT, OBJETIVANDO APURACAO E COMPENSACAO DE VALORES RECOLHIDOS A MAIOR NA ALIQUOTA GILRAT.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257870]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Camara Municipal de Dourados]]></ORGAO>
+        <CODORGAO><![CDATA[1789]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Marcelino Pires, 3495]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(67) 3416-0139]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[DOURADOS]]></CIDADE>
+        <UF><![CDATA[MS]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Realizacao]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA DE CONSULTORIA (CONSULTORA) PARA EXECUCAO DE UMA AMPLA
+ASSESSORIA TECNICA ESPECIALIZADA AO DEPARTAMENTO DE RECURSOS NO ENVIO SICAP, AJUSTE DE PLANOS DE CARGOS E SALARIOS, AUXILIO NA EXECUCAO DA LEGISLACAO DO PCCS, AO DEPARTAMENTO CONTABIL, NA ELABORACAO DAS PRESTACOES DE CONTAS NO QUE SE REFERE AO PROCESSAMENTO E ENVIO DE DADOS COMO SICOM, LRF TRANSPARENCIA E DEMAIS NORMATIVAS DO TCE/MS, COM TREINAMENTO E APERFEICOAMENTO DE PESSOAL PARA ATENDER AS NECESSIDADES DA CAMARA MUNICIPAL DE DOURADOS/MS.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257850]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Dourados]]></ORGAO>
+        <CODORGAO><![CDATA[10128]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Coronel Ponciano,1700]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(67) 3411-7687 / 7693 / 7126 / 7755]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[DOURADOS]]></CIDADE>
+        <UF><![CDATA[MS]]></UF>
+        <EDITAL><![CDATA[18/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[07/11/2016 08:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA EXECUCAO DO PLANO DE DESENVOLVIMENTO SOCIOTERRITORIAL-PDST NO CONDOMINIO RESIDENCIAL HABITACIONAL “HARRISON DE FIGUEIREDO III”, ATRAVES DO FUNDO DE ARRENDAMENTO RESIDENCIAL-FAR COM RECURSOS DO PDST N.º 0338.366-69, NA MODALIDADE MINHA CASA MINHA VIDA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.dourados.ms.gov.br / http://www.licitacoes-e.com.br / www.dourados.ms.gov.br - link“Licitações”]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262612]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Sao Gabriel do Oeste]]></ORGAO>
+        <CODORGAO><![CDATA[12576]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Martimiano Alves Dias, 1.211]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(67) 3295-2111 / (67) 3295-2727]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[SAO GABRIEL DO OESTE]]></CIDADE>
+        <UF><![CDATA[MS]]></UF>
+        <EDITAL><![CDATA[108/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[26/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[FORMACAO DE REGISTRO DE PRECOS PARA CONTRATACAO DE INSTITUICAO DE LONGA PERMANENCIA PARA PESSOAS (IDOSOS E/OU PESSOAS COM DEFICIENCIA) DE AMBOS OS SEXOS,  DENTRO DO ESTADO DE MATO GROSSO DO SUL, EM ATENDIMENTO A SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.saogabriel.ms.gov.br/]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7246511]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Comunicado/Convocacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Rondolandia]]></ORGAO>
+        <CODORGAO><![CDATA[15758]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Joana Alves de Oliveira s/nº]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(66) 3542-1177]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[RONDOLANDIA]]></CIDADE>
+        <UF><![CDATA[MT]]></UF>
+        <EDITAL><![CDATA[67/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[11/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA PARA PRESTACAO DE SERVICOS DE CONSULTORIA AGRONOMICA PARA ATENDER OS PRODUTORES DA AGRICULTURA FAMILIAR ATENDENDO AS NECESSIDADES DA SECRETARIA MUNICIPAL DE AGRICULTURA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[COMISSÃO PERMANENTE DE LICITAÇÕES
+AVISO DE REVOGAÇÃO
+PREGÃO PRESENCIAL COM R.P Nº 067/2016
+Referência: Registro de Preço para Futura e Eventual Contratação de
+Pessoa Jurídica para Prestação de Serviços de Consultoria Agronômica
+para atender os produtores da Agricultura Familiar atendendo
+as necessidades da Secretaria Municipal de Agricultura.
+A Prefeita Municipal, no uso de suas atribuições, tendo em vista prerrogativas
+e os regramentos estatuídos pela Lei Federal nº 8.666/1993 e;
+Considerando a supremacia da Administração Pública na condução encerramento
+dos procedimentos licitatórios em andamento em sua instância,
+com fundamento no teor do Art.49, capt da Lei Federal nº 8.666/1993;
+Considerando que a Administração pode revogar seus próprios atos por
+razões de conveniência e oportunidade conforme o Art. 49 da Lei Federal
+nº 8.666/1993;
+DECIDO:
+REVOGAR, por razões de interesse público o processo licitatório, objeto
+do Pregão Presencial sob nº 067/2016, Processo Administrativo nº 161/
+2016 – SEMAGRI.
+DETERMINAR a sua baixa nos cadastros do Sistema Integrado de Licitações
+(COMPRAS) desta Administração em decorrência da revogação supra;
+Publique – se.
+Rondolândia-MT, em 06 de Outubro de 2016.]]></OBS>
+        <SITE><![CDATA[http://www.rondolandia.com/]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257230]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Secretaria de Estado de Seguranca Publica]]></ORGAO>
+        <CODORGAO><![CDATA[29333]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Centro Político Administrativo]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(65) 3613-8138/5528]]></FONE>
+        <FAX><![CDATA[(65)3613-5528]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Cuiaba]]></CIDADE>
+        <UF><![CDATA[MT]]></UF>
+        <EDITAL><![CDATA[109/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 16:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[SERVICO ESPECIALIZADO CURSO SIMULADOR E PRATICO DE VOO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[{{36-845}}]]></OBS>
+        <SITE><![CDATA[site: www.sad.mt.gov.br 
+Link: http://aquisicoes.sad.mt.gov.br/]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasmt/2016/outubro/845.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7175617]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Joao Pessoa]]></ORGAO>
+        <CODORGAO><![CDATA[10941]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Diogenes Chianca, 1777]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ E-Mail:licitacaojp@gmail]]></COMPLENDERECO>
+        <FONE><![CDATA[(83) 3218-9006/3218-9005.]]></FONE>
+        <FAX><![CDATA[(83) 3218-9087]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Joao Pessoa]]></CIDADE>
+        <UF><![CDATA[PB]]></UF>
+        <EDITAL><![CDATA[33002/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[10/11/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA ELABORACAO DO ESTUDO DE IMPACTO AMBIENTAL, RELATORIO DE IMPACTO NO MEIO AMBIENTE E EXECUCAO DA PAVIMENTACAO, DRENAGEM E CONTENCAO DO PROCESSO DE EROSAO MARINHA DA FALSIA DO CABO BRANCO E DA PRAIA DO SEIXAS, NA CIDADE DE JOAO PESSOA/PB.]]></OBJETO>
+        <PREDITAL><![CDATA[mediante a entrega de 1(um) DVD ou Pen drive]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.joaopessoa.pb.gov.br/licitacoes]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261973]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Instituto de Previdencia do Municipio de Joao Pessoa]]></ORGAO>
+        <CODORGAO><![CDATA[34563]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Engenheiro Clodoaldo Gouveia, 166]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(83) 3218-9831]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Joao Pessoa]]></CIDADE>
+        <UF><![CDATA[PB]]></UF>
+        <EDITAL><![CDATA[2/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS CONTINUADOS DE CONSULTORIA DE INVESTIMENTOS, PARA ATENDER AS NECESSIDADES DESTE INSTITUTO. - 649075]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 4365/2016  - Numero da licitacao: 649075          {{186-268253}}]]></OBS>
+        <SITE><![CDATA[Site: http://www.ipmjp.pb.gov.br/ ou www.licitacoes-e.com.br (somente Pregao Eletronico)]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7235139]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao e Retificacao do Edital]]></SITUACAO>
+        <ORGAO><![CDATA[COPEL-Companhia Paranaense de Energia]]></ORGAO>
+        <CODORGAO><![CDATA[3621]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[http://www.copel.com ou http://www.licitacoes-e.com.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(41) 3331- 3193/3331-4392]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Curitiba]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[SGD160366/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[AUDITORIA PARA CERTIFICACAO E MANUTENCAO DO SISTEMA DE GESTAO DA QUALIDADE]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.copel.com]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7213768]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura municipal de Boa Ventura de Sao Roque]]></ORGAO>
+        <CODORGAO><![CDATA[9310]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Paco Municipal]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(42)652-1020  ]]></FONE>
+        <FAX><![CDATA[ (42)652-1020]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[BOA VENTURA DE SAO ROQUE]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[9/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Realizacao]]></TPPRAZO>
+        <PRAZO><![CDATA[25/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA O DESENVOLVIMENTO / ACOMPANHAMENTO /
+MONITORAMENTO E FINALIZACAO DO PRAD (PLANO DE RECUPERACAO DE AREAS DEGREDADAS DO ANTIGO LIXAO)]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[e-mail: pmbvsr@visanet.com.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261239]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Palmas]]></ORGAO>
+        <CODORGAO><![CDATA[11674]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Clevelandia, 521]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(46) 3263-1122/7000]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Palmas]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[65/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[26/10/2016      ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM ENCONTROS/PALESTRAS/OFICINAS E AQUISICAO DE UM VEICULO PARA ATENDER O PLANO DE TRABALHO DO COFINANCIAMENTO DO GOVERNO ESTADUAL NA MODALIDADE FIA AFAI PROGRAMA FAMILIA PARANAENSE]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[MODALIDADE SUJEITO A CONFIRMACAO JUNTO AO ORGAO NUMERO EDITAL/PROCESSO: 65 - PRECO MAXIMO/REFERENCIA DE PRECO - R$ 86.163,68           {{103-93003}}]]></OBS>
+        <SITE><![CDATA[E-mail: licitacao@pmp.pr.gov.br
+Site: www.pmp.pr.gov.br.]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262626]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SANEPAR - Companhia de Saneamento do Parana]]></ORGAO>
+        <CODORGAO><![CDATA[13690]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Engenheiros Reboucas, 1376]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(41) 3330-3910 / 3128]]></FONE>
+        <FAX><![CDATA[(41) 3330-3901/3900/3200 ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Curitiba]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[221/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[09/11/2016 16:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[EXECUCAO DE SERVICOS TOPOGRAFICOS E ELABORACAO DE ELEMENTOS DE
+LEGALIZACAO PARA O SISTEMA DE ESGOTOS SANITARIOS DO MUNICIPIO DE ALMIRANTE
+TAMANDARE, COM FORNECIMENTO TOTAL DE MATERIAIS E EQUIPAMENTOS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[Banco Itau - Ag. 4131 - Conta: 563.1 ]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://licitacao.sanepar.com.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261204]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Flor Serra do Sul]]></ORGAO>
+        <CODORGAO><![CDATA[16327]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Joao Arisi, 115]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(46) 3565-1132]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[FLOR DA SERRA DO SUL]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[21/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016      ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA, PARA PRESTACAO DE SERVICO NO QUE TANGE AO PATRIMONIO PUBLICO MUNICIPAL REFERENTE AO PERIODO COMPREENDIDO ENTRE JANEIRO DE 2013 A DEZEMBRO DE 2016.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[MODALIDADE SUJEITO A CONFIRMACAO JUNTO AO ORGAO NUMERO EDITAL/PROCESSO: 21 - PRECO MAXIMO/REFERENCIA DE PRECO - R$ 51.840,00           {{103-92962}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262583]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SESI-Servico Social da Industria]]></ORGAO>
+        <CODORGAO><![CDATA[15125]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Santa Luzia, 685]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[3. Andar]]></COMPLENDERECO>
+        <FONE><![CDATA[(21) 2587-1152]]></FONE>
+        <FAX><![CDATA[(21) 2587-1220]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Rio de Janeiro]]></CIDADE>
+        <UF><![CDATA[RJ]]></UF>
+        <EDITAL><![CDATA[35/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[18/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA PRESTACAO DE SERVICOS DE RECUPERACAO DE TITULOS DE TERCEIROS, COMPONENTES DAS CARTEIRAS DE RECEBIVEIS DO SESI-RJ E DO SENAI-RJ]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.firjan.org.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261129]]></PRODNUM>
+        <VERSAO><![CDATA[9480]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Sebrae - Servico de Apoio as Micros e Pequenas Empresas]]></ORGAO>
+        <CODORGAO><![CDATA[13736]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[www.sebrae.com.br/canaldofornecedor/ www.licitacoes-e.com.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[nao informado pela fonte]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[PORTO VELHO]]></CIDADE>
+        <UF><![CDATA[RO]]></UF>
+        <EDITAL><![CDATA[20/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[17/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PESSOA JURIDICA PARA PRESTACAO DE SERVICOS DE CONSULTORIA VISANDO IDENTIFICAR, MAPEAR, RACIONALIZAR E PADRONIZAR OS PROCESSOS E DOCUMENTOS DE GESTAO DO SEBRAE/RO, INCLUINDO SEUS DETALHAMENTOS, CONFORME DETALHAMENTOS E ESPECIFICACOES CONSTANTES NO EDITAL E ANEXOS. - 648871]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 793/2016  - Numero da licitacao: 648871          {{186-268276}}]]></OBS>
+        <SITE><![CDATA[E-mail: cpl@ro.sebrae.com.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/BBnovo/2016/outubro/268276.zip *** 
+	http://www.licitacao.com.br/editais/sebrae/2016/outubro/1629.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7250132]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Reabertura]]></SITUACAO>
+        <ORGAO><![CDATA[CREA-Conselho Regional de Engenharia, Arquitetura e Agronomia do Rio Grande do Sul]]></ORGAO>
+        <CODORGAO><![CDATA[3721]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Sao Luis, 77]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[e-mail: licitacao@crea-rs.org.br]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3320-2161 / 3320-2240]]></FONE>
+        <FAX><![CDATA[(51) 3320-2169]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Porto Alegre]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[35/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016 10:0 ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 389092  PREGAO ELETRONICO -  CONTRATACAO DE EMPRESA ESPECIALIZADA, COM ATRIBUICAO, PARA FAZER A REVISAO E APONTAMENTOS DO RECOLHIMENTO A MAIOR DO FATOR PREVIDENCIARIO DE PREVENCAO DE ACIDENTES DO TRABALHO, RELATIVO AO PERIODO IMPRESCRITO DE JANEIRO/2011 A AGOSTO/2012, BEM COMO PARA ELABORACAO DE LAUDO PERICIAL QUE CONTENHA O LEVANTAMENTO DOS VALORES REFERENTES AS CONTRIBUICOES PREVIDENCIARIAS RECOLHIDAS A MAIOR EM VIRTUDE DO NOVO ENQUADRAMENTO DO FATOR ACIDENTARIO DE PREVENCAO (AJUSTADO PELO CORRETO RAT - RISCOS AMBIENTAIS DO TRABALHO) E DE ADEQUACAO AOS PERCENTUAIS CORRETOS, NO PERIODO IMPRESCRITO (2011 A 2014)]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 389092            {{25-635551}}]]></OBS>
+        <SITE><![CDATA[www.pregaoonlinebanrisul.com.br/e-mail: licitacao@ crea-rs.org.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasNetAlteracao/2016/setembro/17210alteracao.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261142]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[ECT - Empresa Brasileira de Correios e Telegrafos]]></ORGAO>
+        <CODORGAO><![CDATA[4781]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[http://www.correios.com.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[e-mail: licitacoes-rs@correios.com.br]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3220-8729 / 8988]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Porto Alegre]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[24/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[DL]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[11/10/2016 14:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[PRESTACAO DE SERVICO  DE CONSULTORIA PARA DESENVOLVIMENTO DE CURSO PLANEJAMENTO FINANCEIRO NA APOSENTADORIA. - 648681]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 16000187  - Numero da licitacao: 648681          {{186-268290}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/BBnovo/2016/outubro/268290.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262669]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Arroio dos Ratos]]></ORGAO>
+        <CODORGAO><![CDATA[9125]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Largo do Mineiro, 195]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3656-1029]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[ARROIO DOS RATOS]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[25/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[25/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA A REALIZACAO INTEGRAL DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262732]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Capao do Cipo]]></ORGAO>
+        <CODORGAO><![CDATA[9661]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Catarino Garcia Santos Neves, 50]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(55) 3611-1216/1301/1326]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CAPAO DO CIPO]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[42/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[26/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA REALIZACAO DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.capaodocipo.rs.gov.br/]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257994]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Nova Santa Rita]]></ORGAO>
+        <CODORGAO><![CDATA[11559]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Helio Fraga de Moraes Sarmento, 64]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3479-2200, Ramal 210 
+]]></FONE>
+        <FAX><![CDATA[(51) 3479-1126]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[NOVA SANTA RITA]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[9/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE UMA EMPRESA PARA REALIZAR SERVICOS DE LAUDO PERICIAL DE INSALUBRIDADE
+E PERICULOSIDADE.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.novasantarita.rs.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7251582]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Novo Cabrais]]></ORGAO>
+        <CODORGAO><![CDATA[11577]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. 28 de Dezembro, s/n.]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3616-5013 / 5011]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[NOVO CABRAIS]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA EXECUCAO TECNICO-ADMINISTRATIVA
+DE CONCURSO PUBLICO PARA O QUADRO DE CARGOS DOS SERVIDORES E DO MAGISTERIO DA PREFEITURA, E PARA O QUADRO DE SERVIDORES DA CAMARA DE VEREADORES DE NOVO CABRAIS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7258175]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Sao Pedro do Sul]]></ORGAO>
+        <CODORGAO><![CDATA[12734]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Floriano Peixoto, 222]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(55) 3276-1085 /1163]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[horario de atendimento: das 07h30 as 14h30]]></OBSORGAO>
+        <CIDADE><![CDATA[SAO PEDRO DO SUL]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[36/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[20/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS REFERENTES A ASSESSORAMENTO TECNICO VISANDO A ELABORACAO, ENCAMINHAMENTO E ACOMPANHAMENTO
+DE PROJETOS VISANDO O LICENCIAMENTO AMBIENTAL JUNTO AOS ORGAOS RESPONSAVEIS, PARA FI NS DE VERIFI CACAO DA CONFORMIDADE AS NORMAS AMBIENTAIS (FEPAM) E REGISTRO DE EXTRACAO (DNPM), DA EXECUCAO DE EXPLORACAO, NAS SAIBREIRAS NAS LOCALIDADES DE RIBEIRAO E SAO JOAO, MUNICIPIO DE SAO
+PEDRO DO SUL - RS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7258183]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Tapes]]></ORGAO>
+        <CODORGAO><![CDATA[12964]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Coronel Pacheco, 198]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3672-5222]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[TAPES]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[32/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PRESTADORA DE SERVICOS PARA ASSESSORAR O FUNDO MUNICIPAL DE PREVIDENCIA, COLOCANDO A  DISPOSICAO OS SEGUINTES SERVICOS: ASSESSORIA E CONSULTORIA ATUARIAL E FINANCEIRA; RELATORIOS BIMESTRAIS; POLITICA DE INVESTIMENTOS; COMPENSACAO FINANCEIRA RO E RI; AVALIACAO ATUARIAL; ELABORACAO DRAA E ATUALIZACAO E TREINAMENTO PARA O COMITE DE INVESTIMENTO, GESTOR E PRESIDENTE DO FUNDO MUNICIPAL DE PREVIDENCIA ATRAVES DE CURSOS E PALESTRAS, DE ACORDO COM O
+TERMO DE REFERENCIA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.tapes.rs.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/cidadecompras/2016/outubro/21767.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7257626]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Central de Compras do Estado do Rio Grande do Sul]]></ORGAO>
+        <CODORGAO><![CDATA[28143]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[www.compras.rs.gov.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3288-1176]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Porto Alegre]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[611/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[19/10/2016 09:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[PROCESSO: 109116-20.00/15-3 CONTRATACAO DE INSTITUICAO DE ENSINO PARA EXECUTAR CURSOS DE ATENCAO AO PRE-NATAL PARA AGENTES COMUNITARIOS DE SAUDE E VISITADORES DO PROGRAMA PRIMEIRA INFANCIA MELHOR-PIM, CONFORME ANEXO I-FOLHA DE DADOS E ANEXO II- TERMO DE REFERENCIA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[{{129-79109}}]]></OBS>
+        <SITE><![CDATA[www.compras.rs.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/compras_rs/2016/outubro/79109.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7263059]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Comaja Consorcio de Desenvolvimento Intermunicipal dos Municipios do Alto Jacui]]></ORGAO>
+        <CODORGAO><![CDATA[28702]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[rua do comercio, 834]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(54) 3324-4502]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[IBIRUBA]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[5/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[25/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[REGISTRO DE PRECOS PARA CESSAO DE LICENCIAMENTO DE
+USO DE SISTEMAS DE GESTAO PUBLICA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262576]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Badesul Desenvolvimento S.A]]></ORGAO>
+        <CODORGAO><![CDATA[29667]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Agencia de Fomento/RS]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua General Andrade Neves, 175 - 17º andar]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[3284.5790 e 3284.5944]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Porto Alegre]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[03/11/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[PRESTACAO DE SERVICOS DE AVALIACAO ATUARIAL DOS PLANOS DE BENEFICIOS POS-EMPREGO OFERECIDOS AOS FUNCIONARIOS DO BADESUL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7239523]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao e Retificacao do Edital]]></SITUACAO>
+        <ORGAO><![CDATA[Autarquia Agua de Ivoti]]></ORGAO>
+        <CODORGAO><![CDATA[31807]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Presidente Lucena, 3315]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[00xx51-3563.8800]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[IVOTI]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[4/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Cadastramento]]></TPPRAZO>
+        <PRAZO><![CDATA[04/11/2016   :  ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA REALIZACAO
+DE PROCEDIMENTOS TECNICOS PARA ELABORACAO DE CONCURSO PUBLICO
+DA AUTARQUIA AGUA DE IVOTI.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[Data para a apresentação dos documentos
+do cadastramento será no dia 04 de novembro de 2016. As propostas serão recebidas no dia 09
+de novembro de 2016, às 14h. Informações poderão ser obtidas na Prefeitura Municipal de Ivoti, no
+Departamento de Licitações, pelo telefone 00xx51-3563.8800 ou pelo site www.aguadeivoti.com.br .]]></OBS>
+        <SITE><![CDATA[site www.ivoti.rs.gov.br www.ivoti.rs.gov.br ]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7239191]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Campo Ere]]></ORGAO>
+        <CODORGAO><![CDATA[9584]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Primeiro de Maio, 736]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(49) 3655-3000]]></FONE>
+        <FAX><![CDATA[(49)3655-3000]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CAMPO ERE]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[36/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Retirada de edital e cadastramento]]></TPPRAZO>
+        <PRAZO><![CDATA[17/10/2016 08:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[SELECAO DE INSTITUICAO FINANCEIRA PARA PROCESSAMENTO E GERENCIAMENTO DOS CREDITOS DE PROVENTOS DA FOLHA DE PAGAMENTO DOS SERVIDORES, CONFORME ESPECIFICADO NESTE EDITAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.campoere.sc.gov.br/]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7260855]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Conselho de Arquitetura e Urbanismo de Santa Catarina]]></ORGAO>
+        <CODORGAO><![CDATA[29429]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Avenida Prefeito Osmar Cunha, 260 ]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Ed Royal Business Center, 6ºandar]]></COMPLENDERECO>
+        <FONE><![CDATA[(48) 3225-9599]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Florianopolis]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[S.N]]></EDITAL>
+	<MODALIDADE><![CDATA[SM]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[07/11/2016 ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONVOCACAO DE ENTIDADES MISTAS DE REPRESENTACAO DE ARQUITETOS
+E URBANISTAS EM SANTA CATARINA QUE TENHAM INTERESSE EM INTEGRAR
+O COLEGIADO PERMANENTE DE ENTIDADES DE ARQUITETOS E URBANISTAS
+DE SANTA CATARINA – CEAU/SC NO ANO CIVIL DE 2017.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[referido edital encontra-se disponível no site oficial do CAU/SC, no endereço eletrônico www.causc.gov.br.
+Maiores informações através do e-mail secretaria@causc.gov.br.Tel. (48)32259599.]]></OBS>
+        <SITE><![CDATA[site: www.causc.org.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261536]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Sao Paulo Turismo S/A]]></ORGAO>
+        <CODORGAO><![CDATA[408]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Olavo Fontoura, 1209]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[http://www.licitacoes-e.com.br/http://www.comprasnet.gov.br/]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 2226-0496 / 0497 / 0685 ]]></FONE>
+        <FAX><![CDATA[ (11) 2226-0484 ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[860/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[DL]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[10/10/2016 15:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICO DE AUDITORIA INDEPENDENTE SOBRE AS DEMONSTRACOES CONTABEIS DO TRIMESTRE ENCERRADO EM 30/09/2016 - 649198]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 0860/16  - Numero da licitacao: 649198          {{186-268336}}]]></OBS>
+        <SITE><![CDATA[licitacoes@spturis.com / http://e-negocioscidadesp.prefeitura.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/BBnovo/2016/outubro/268336.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262038]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Diretoria de Ensino]]></ORGAO>
+        <CODORGAO><![CDATA[4680]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Critobal Claudio Elillo, 278]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11)  2461-5752]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Guarulhos]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[10/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[24/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE PRESTACAO DE SERVICOS CONTINUOS DE APOIO AOS ALUNOS COM DEFICIENCIA QUE APRESENTEM LIMITACOES MOTORAS E OUTRAS DIFICULDADES DE CARATER PERMANENTE OU TEMPORARIO NO AUTO CUIDADO. PROCESSO: 01103/0019/2016]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 01103/0019/2016            {{168-1093984}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/enegocios/2016/outubro/EN10939841104514.pdf *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7172560]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Suspensao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Franca]]></ORGAO>
+        <CODORGAO><![CDATA[10298]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Frederico Moura, 1517]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(16) 3711-9176/ 9550]]></FONE>
+        <FAX><![CDATA[(16) 3711-9041]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[FRANCA]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[12/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[]]></TPPRAZO>
+        <PRAZO><![CDATA[07/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA ELABORACAO DE TERMO DE
+REFERENCIA PARA EXECUCAO DE INVESTIGACAO DE PASSIVOS AMBIENTAIS
+NO ATERRO DA FAZENDA MUNICIPAL DE FRANCA – FEHIDRO,
+MUNICIPIO DE FRANCA - SP.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.franca.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/francasp/2016/agosto/373.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262412]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Registro]]></ORGAO>
+        <CODORGAO><![CDATA[12161]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Jose Antonio de Campos, 250]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(13)3828-1000 - ramal 138
+(13) 3828- 1000 r. 1032 ou Tel/Fax (13) 3821-2565
+
+(13) 3828- 1000 r. 1048 ou Tel/Fax (13) 3821-2565]]></FONE>
+        <FAX><![CDATA[(13) 3821-6020 ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[REGISTRO]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[14/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA PRESTAR SERVICOS TECNICOS-PROFISSIONAIS ESPECIALIZADOS
+PARA EXECUCAO DE INVESTIGACAO DETALHADA E AVALIACAO
+DE RISCO DE SOLO E AGUA SUBTERRANEA, CONFORME SOLICITACAO DA
+CETESB, PARA AREA ONDE OPERA O ATERRO MUNICIPAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.registro.sp.gov.br
+e-mail material@registro.sp.gov.br ou ompras@registro.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7253297]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Santana de Parnaiba]]></ORGAO>
+        <CODORGAO><![CDATA[12460]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Anhembi, 128 ]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 4622-7500
+]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[SANTANA DE PARNAIBA]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[4/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[03/11/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS DE CONSULTORIA E DE SERVICOS TECNICOS ESPECIALIZADOS EM ENGENHARIA E ARQUITETURA E URBANISMO ENVOLVENDO: LEVANTAMENTO AEROFOTOGRAMETRICO. ADEQUACAO E ATUALIZACAO DA BASE CARTOGRAFICA MUNICIPAL. RECADASTRAMENTO IMOBILIARIO URBANO E CONVERSAO DA LEGISLACAO DE PARCELAMENTO, USO E OCUPACAO DO SOLO PARA INTEGRACAO COM A BASE DE DADOS CADASTRAIS PARA O MUNICIPIO DE SANTANA DE PARNAIBA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[VALOR DA CAUCAO:R$ 14.976,3200{{78-315}}]]></OBS>
+        <SITE><![CDATA[www.santanadeparnaiba.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262356]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SEPREV - Serv. de Prev. e Assist. Social dos Funcionarios Municipais]]></ORGAO>
+        <CODORGAO><![CDATA[14959]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua dos Ipes, 125]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(19) 3825-4607]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[INDAIATUBA]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[7/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[24/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONSTITUI OBJETO DA PRESENTE LICITACAO A CONTRATACAO
+DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS DE
+AUDITORIA EM SAUDE, ASSESSORIA TECNICA E FORNECIMENTO DE SOFTWARE
+INTEGRADO DE GESTAO, CONFORME ESPECIFICADO NO TERMO DE
+REFERENCIA – ANEXO I, PARA APOIO A OPERACAO E A GESTAO DO PLANO
+DE ASSISTENCIA A SAUDE ADMINISTRADO PELO SEPREV, PELO PRAZO
+DE 12 (DOZE) MESES.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.seprev.com.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261171]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SESC-Servico Social do Comercio]]></ORGAO>
+        <CODORGAO><![CDATA[15113]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Alvaro Ramos, 991]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 6607-8000
+]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[25/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016      ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[ELABORACAO DE PROJETOS DE CONFORTO AMBIENTAL, ACUSTICA, LUMINOTECNICA, PAISAGISMO E IRRIGACAO E ESQUADRIAS PARA AS OBRAS DE CONSTURCAO DA FUTURA UNIDADE PARQUE DOM PEDRO II.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[{{180-273}}]]></OBS>
+        <SITE><![CDATA[http://www.sescsp.org.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/sescsp/2016/setembro/273.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7261106]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[SESC-Servico Social do Comercio]]></ORGAO>
+        <CODORGAO><![CDATA[15113]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Alvaro Ramos, 991]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 6607-8000
+]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[32/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016      ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONSULTORIA EM SUSTENTABILIDADE PARA OBTENCAO DE CERTIFICACAO LEED E PARA OBTENCAO DE SELO DE EFICIENCIA ENERGETICA PROCEL EDIFICACOES PARA FUTURA UNIDADE PARQUE DOM PEDRO II.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[{{180-287}}]]></OBS>
+        <SITE><![CDATA[http://www.sescsp.org.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/sescsp/2016/setembro/287.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262040]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Agencia Reguladora de Saneamento e Energia do Estado de Sao Paulo - ARSESP]]></ORGAO>
+        <CODORGAO><![CDATA[25148]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av Paulista, 2313  4º Andar]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(11) 3293-5100]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Paulo]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[6/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[24/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE SERVICOS DE APOIO TECNICO PARA A SEGUNDA REVISAO TARIFARIA ORDINARIA DA SABESP PROCESSO: ARSESP.ADM-0106-2016]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: ARSESP.ADM-0106-2016            {{168-1093988}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/enegocios/2016/outubro/EN10939881104611.pdf *** 
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

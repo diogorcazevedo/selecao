@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7236605]]></PRODNUM>
+        <VERSAO><![CDATA[9457]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[UNEMAT-Fundacao Universidade do Estado de MT]]></ORGAO>
+        <CODORGAO><![CDATA[17043]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Tancredo Neves, 1095]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(65) 3221-0002]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CACERES]]></CIDADE>
+        <UF><![CDATA[MT]]></UF>
+        <EDITAL><![CDATA[33/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[SM]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Nao informado, consultar orgao]]></TPPRAZO>
+        <PRAZO><![CDATA[30/09/2016 ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO TEMPORARIA DE PROFESSOR DA EDUCACAO SUPERIOR PARA ATUAR NA FACULDADE DE CIENCIAS DA SAUDE NO CAMPUS UNIVERSITARIO DE CACERES/MT, ALTERANDO O CRONOGRAMA DO PROCESSO SELETIVO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[CONFIRMAR DATA DE ABERTURA JUNTO AO ORGAO LICITANTE
+O Edital completo está disponível aos interessados no site da UNEMAT, no
+link http://www.unemat.br/seletivos.]]></OBS>
+        <SITE><![CDATA[www.unemat.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7229745]]></PRODNUM>
+        <VERSAO><![CDATA[9457]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Conselho Regional de Medicina de Pernanbuco]]></ORGAO>
+        <CODORGAO><![CDATA[3529]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Conselheiro Portela, 203]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(81) 3241-5609 / (81) 2123-5753]]></FONE>
+        <FAX><![CDATA[(81) 3441-5518]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Recife]]></CIDADE>
+        <UF><![CDATA[PE]]></UF>
+        <EDITAL><![CDATA[4/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CPR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Nao informado, consultar orgao]]></TPPRAZO>
+        <PRAZO><![CDATA[23/09/2016 ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONCURSO DE MONOGRAFIA, DESTINADO A ESTUDANTES DE MEDICINA, DEVIDAMENTE MATRICULADOS EM ESCOLAS DE MEDICINA DE PERNAMBUCO A PARTIR DO 3º PERIODO, VERSANDO SOBRE O TEMA "MEDICINA PALIATIVA: ONDE ESTAMOS?", NO PERIODO DE 19/09/2016 A 31/10/2016.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[CONFIRMAR DATA DE ABERTURA JUNTO AO ORGAO LICITANTE
+O prazo para entrega da Monografia será até 19/12/2016 para concorrer ao PRÊMIO DE INCENTIVO À ÉTICA E BIOÉTICA MARIA CLARA ALBUQUERQUE, instituído através da Resolução CREMEPE Nº 001/2013 e suas alterações. O regulamento, bem como as datas de entrega dos trabalhos, julgamento e resultado, constará no
+Regulamento disponibilizado no site do CREMEPE (www.cremepe.org.br).]]></OBS>
+        <SITE><![CDATA[http://www.cremepe.org.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7236636]]></PRODNUM>
+        <VERSAO><![CDATA[9457]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Conselho Regional de Fisioterapia e Terapia Ocupacional]]></ORGAO>
+        <CODORGAO><![CDATA[28377]]></CODORGAO>
+        <COMPLORGAO><![CDATA[1ª regiao]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Sede do Conselho]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(81) 3081-5000]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Recife]]></CIDADE>
+        <UF><![CDATA[PE]]></UF>
+        <EDITAL><![CDATA[2/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[05/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA REALIZACAO DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[e-mail: licitacao@crefito1.org.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7233186]]></PRODNUM>
+        <VERSAO><![CDATA[9457]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Sao Jose dos Pinhais]]></ORGAO>
+        <CODORGAO><![CDATA[12677]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Passos Oliveira, 1101]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(41) 3381-6694 / 6845/ 6893/6840]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[SAO JOSE DOS PINHAIS]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[33/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[08/11/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[REGISTRO DE PRECOS PARA A CONTRATACAO DE EMPRESA ESPECIALIZADA NA ORGANIZACAO E OPERACIONALIZACAO DE TESTE SELETIVO PARA O PROVIMENTO DE VAGAS DA GUARDA MIRIM DESTE MUNICIPIO.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[{{95-774}}]]></OBS>
+        <SITE><![CDATA[www.caixa.gov.br
+site www.sjp.pr.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/sjpinhais/2016/setembro/774.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7234342]]></PRODNUM>
+        <VERSAO><![CDATA[9457]]></VERSAO>
+        <SITUACAO><![CDATA[Suspensao]]></SITUACAO>
+        <ORGAO><![CDATA[Secretaria Municipal de Administracao]]></ORGAO>
+        <CODORGAO><![CDATA[14559]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Afonso Cavalcanti, 455]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Anexo 10.andar - Ala A ]]></COMPLENDERECO>
+        <FONE><![CDATA[(21) 2503-3663 / 2976-3598 ]]></FONE>
+        <FAX><![CDATA[(21) 2293-5212]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Rio de Janeiro]]></CIDADE>
+        <UF><![CDATA[RJ]]></UF>
+        <EDITAL><![CDATA[570/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[]]></TPPRAZO>
+        <PRAZO><![CDATA[05/10/2016 11:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[PRESTACAO DE SERVICOS DE ETAPAS DE CONCURSOS PUBLICOS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[PROCESSO: 05/002.258/2015
+CÓDIGO DA UASG: 986001]]></OBS>
+        <SITE><![CDATA[http://ecomprasrio.rio.rj.gov.br/]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7236242]]></PRODNUM>
+        <VERSAO><![CDATA[9457]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[FUNDHAS-Fundacao de Atendimento a Crianca e ao Adolescente Prof. Helio Augusto de Souza]]></ORGAO>
+        <CODORGAO><![CDATA[6959]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Santarem, 560]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[  (12) 3932-0533]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Sao Jose dos Campos]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[CV]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[03/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA REALIZACAO DO PROCESSO SELETIVO / VESTIBULINHO DO CENTRO DE EDUCACAO PROFISSIONAL HELIO AUGUSTO DE SOUZA – CEPHAS – 1º SEMESTRE/2017.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

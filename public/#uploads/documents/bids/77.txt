@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262669]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Arroio dos Ratos]]></ORGAO>
+        <CODORGAO><![CDATA[9125]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Largo do Mineiro, 195]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3656-1029]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[ARROIO DOS RATOS]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[25/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[25/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA A REALIZACAO INTEGRAL DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262732]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Capao do Cipo]]></ORGAO>
+        <CODORGAO><![CDATA[9661]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Catarino Garcia Santos Neves, 50]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(55) 3611-1216/1301/1326]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[CAPAO DO CIPO]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[42/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[26/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA PARA REALIZACAO DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[http://www.capaodocipo.rs.gov.br/]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7251582]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Novo Cabrais]]></ORGAO>
+        <CODORGAO><![CDATA[11577]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. 28 de Dezembro, s/n.]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(51) 3616-5013 / 5011]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[NOVO CABRAIS]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[3/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA EXECUCAO TECNICO-ADMINISTRATIVA
+DE CONCURSO PUBLICO PARA O QUADRO DE CARGOS DOS SERVIDORES E DO MAGISTERIO DA PREFEITURA, E PARA O QUADRO DE SERVIDORES DA CAMARA DE VEREADORES DE NOVO CABRAIS]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7239523]]></PRODNUM>
+        <VERSAO><![CDATA[9479]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao e Retificacao do Edital]]></SITUACAO>
+        <ORGAO><![CDATA[Autarquia Agua de Ivoti]]></ORGAO>
+        <CODORGAO><![CDATA[31807]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Presidente Lucena, 3315]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[00xx51-3563.8800]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[IVOTI]]></CIDADE>
+        <UF><![CDATA[RS]]></UF>
+        <EDITAL><![CDATA[4/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Cadastramento]]></TPPRAZO>
+        <PRAZO><![CDATA[04/11/2016   :  ]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA REALIZACAO
+DE PROCEDIMENTOS TECNICOS PARA ELABORACAO DE CONCURSO PUBLICO
+DA AUTARQUIA AGUA DE IVOTI.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[Data para a apresentação dos documentos
+do cadastramento será no dia 04 de novembro de 2016. As propostas serão recebidas no dia 09
+de novembro de 2016, às 14h. Informações poderão ser obtidas na Prefeitura Municipal de Ivoti, no
+Departamento de Licitações, pelo telefone 00xx51-3563.8800 ou pelo site www.aguadeivoti.com.br .]]></OBS>
+        <SITE><![CDATA[site www.ivoti.rs.gov.br www.ivoti.rs.gov.br ]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

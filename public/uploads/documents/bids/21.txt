@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<!-- WEBSQL Error : FileNotFound opening /home/producao/formato/email_data_r_22.whtml  -->
+<html><head>
+<title>WEBSQL Error</title><h1>WEBSQL Error</h1>
+</head>
+<!-- BASE_PATH =  -->
+<body>
+File <b>/home/producao/formato/email_data_r_22.whtml</b> not Found 
+</body></html>
+<!-- WEBSQL JAVA 1.47 - 1996-2003 - Ivan F. Martinez - ivanfm at ecodigit.com.br -->
+<!-- WEBSQL Error : FileNotFound opening /home/producao/formato/email_data_r_22.whtml  -->
+<html><head>
+<title>WEBSQL Error</title><h1>WEBSQL Error</h1>
+</head>
+<!-- BASE_PATH =  -->
+<body>
+File <b>/home/producao/formato/email_data_r_22.whtml</b> not Found 
+</body></html>
+<!-- WEBSQL JAVA 1.47 - 1996-2003 - Ivan F. Martinez - ivanfm at ecodigit.com.br -->
+
+</ARQUIVO>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7213246]]></PRODNUM>
+        <VERSAO><![CDATA[9466]]></VERSAO>
+        <SITUACAO><![CDATA[Alteracao de Prazo]]></SITUACAO>
+        <ORGAO><![CDATA[SESC- Servico Social do Comercio]]></ORGAO>
+        <CODORGAO><![CDATA[15110]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Avenida Jovino Dinoa, 4311]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(96) 3241-4440 (ramal 207/240/246)]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[MACAPA]]></CIDADE>
+        <UF><![CDATA[AP]]></UF>
+        <EDITAL><![CDATA[22/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[04/10/2016 15:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATAR EMPRESA PARA SERVICOS ESPECIALIZADOS DE REALIZACAO DE PROCESSO SELETIVO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/diversos/2016/setembro/7213246.pdf *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7247099]]></PRODNUM>
+        <VERSAO><![CDATA[9466]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Jacaraci]]></ORGAO>
+        <CODORGAO><![CDATA[10839]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Anisio Teixeira, 02]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[1º Pavimento]]></COMPLENDERECO>
+        <FONE><![CDATA[(77) 3466 - 2151 ]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[JACARACI]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[36/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[10/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA REALIZACAO DE CONCURSO
+PUBLICO DESTINADO AO PREENCHIMENTO DE VAGAS, PARA CARGOS DE PROVIMENTO
+EFETIVO, PARA SUPRIR AS DEMANDAS DA ADMINISTRACAO PUBLICA MUNICIPAL]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

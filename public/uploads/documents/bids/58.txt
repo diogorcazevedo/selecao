@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7245586]]></PRODNUM>
+        <VERSAO><![CDATA[9465]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Universidade do Estado do Para]]></ORGAO>
+        <CODORGAO><![CDATA[15618]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua do Una, 156]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(91) 3299-2260]]></FONE>
+        <FAX><![CDATA[(0XX91)]]></FAX>
+        <OBSORGAO><![CDATA[horario de atendimento: das 8h00 as 14h00]]></OBSORGAO>
+        <CIDADE><![CDATA[Belem]]></CIDADE>
+        <UF><![CDATA[PA]]></UF>
+        <EDITAL><![CDATA[43/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[11/10/2016 11:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 925611  PREGAO ELETRONICO -  AQUISICAO DE MATERIAL DE CONSUMO PARA A EXECUCAO DO PROCESSO SELETIVO DA UNIVERSIDADE DO ESTADO DO PARA, DE ACORDO COM AS QUANTIDADES E ESPECIFICACOES CONSTANTES NO TERMO DE REFERENCIA, ANEXO I DO EDITAL.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 925611            {{25-641045}}]]></OBS>
+        <SITE><![CDATA[http://www.uepa.br / www.comprasnet.gov.br / www.compraspara.pa.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/setembro/641045.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7246627]]></PRODNUM>
+        <VERSAO><![CDATA[9465]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Tangara]]></ORGAO>
+        <CODORGAO><![CDATA[12953]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. Irmaos Piccoli, 267]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(49) 3532-1522]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[TANGARA]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[157/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Envelopes]]></TPPRAZO>
+        <PRAZO><![CDATA[11/10/2016 14:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM ELABORACAO, ORGANIZACAO E EXECUCAO DE CONCURSO PUBLICO PARA PROVIMENTO DE CARGOS PERTENCENTES AO QUADRO DE SERVIDORES PUBLICOS DO MUNICIPIO DE TANGARA]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7240787]]></PRODNUM>
+        <VERSAO><![CDATA[9465]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Instituto Federal de Educacao, Ciencia e Tecnologia de Santa Catarina]]></ORGAO>
+        <CODORGAO><![CDATA[16782]]></CODORGAO>
+        <COMPLORGAO><![CDATA[Campus Florianopolis - Continente]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua 14 de julho,150]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(48) 3877-9030]]></FONE>
+        <FAX><![CDATA[(48) 3271-1418]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Florianopolis]]></CIDADE>
+        <UF><![CDATA[SC]]></UF>
+        <EDITAL><![CDATA[114/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[10/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 158516  PREGAO ELETRONICO -  PROCESSO DE INGRESSO 2017/01 E 02 E CONCURSO PARA O IFSC]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 158516            {{25-640209}}]]></OBS>
+        <SITE><![CDATA[http://www.comprasnet.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/setembro/640209.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

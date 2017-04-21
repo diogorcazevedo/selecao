@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7254927]]></PRODNUM>
+        <VERSAO><![CDATA[9473]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Procuradoria Regional do Trabalho]]></ORGAO>
+        <CODORGAO><![CDATA[13509]]></CODORGAO>
+        <COMPLORGAO><![CDATA[18. Regiao]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Av. T-63, 984]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[Setor Bueno]]></COMPLENDERECO>
+        <FONE><![CDATA[(62) 3507-2700]]></FONE>
+        <FAX><![CDATA[(62)3507-2704]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Goiania]]></CIDADE>
+        <UF><![CDATA[GO]]></UF>
+        <EDITAL><![CDATA[6/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[17/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 200108  PREGAO ELETRONICO -  CONTRATACAO DE EMPRESA ESPECIALIZADA NA ELABORACAO, REVISAO E REGULARIZACAO DOS PROJETOS EXECUTIVOS DE INSTALACOES DE PROTECAO CONTRA INCENDIOS, PARA ATENDER AS DEMANDAS DO MINISTERIO PUBLICO DO TRABALHO EM GOIAS, BEM COMO APROVA-LO NOS ORGAOS COMPETENTES, CONFORME ESPECIFICACOES, QUANTIDADES E DEMAIS CONDICOES CONSTANTES NESTE EDITAL E SEUS ANEXOS.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 200108            {{25-642287}}]]></OBS>
+        <SITE><![CDATA[http://www.comprasnet.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/outubro/642287.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7175589]]></PRODNUM>
+        <VERSAO><![CDATA[9473]]></VERSAO>
+        <SITUACAO><![CDATA[Prorrogacao]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Jaicos]]></ORGAO>
+        <CODORGAO><![CDATA[20750]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Angelo Borges Leal, s/n]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(86) 3457-1861 / 1132]]></FONE>
+        <FAX><![CDATA[(89) 3457-1132]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[JAICOS]]></CIDADE>
+        <UF><![CDATA[PI]]></UF>
+        <EDITAL><![CDATA[11/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[TP]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[18/10/2016 10:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA NA REALIZACAO DE CONCURSO PUBLICO PARA PROVIMENTO DE CARGOS DO QUADRO EFETIVO DO MUNICIPIO DE JAICOS/PI.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[TELEFONE: 89 3457 1132{{102-19590}}]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/tcepi/2016/agosto/19141.zip *** 
+	http://www.licitacao.com.br/editais/tcepi/2016/outubro/19590.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7255118]]></PRODNUM>
+        <VERSAO><![CDATA[9473]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Guaratingueta]]></ORGAO>
+        <CODORGAO><![CDATA[10451]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Rua Jacques Felix, 02]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(12) 3128-2800 ]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[GUARATINGUETA]]></CIDADE>
+        <UF><![CDATA[SP]]></UF>
+        <EDITAL><![CDATA[106/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016 09:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA ASSESSORIA
+E REALIZACAO DE CONCURSO PUBLICO]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[www.guaratingueta.sp.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>

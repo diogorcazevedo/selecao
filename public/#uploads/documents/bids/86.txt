@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--  Produzido por RHS Licitações -->
+
+<ARQUIVO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7273125]]></PRODNUM>
+        <VERSAO><![CDATA[9487]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Itanhem]]></ORGAO>
+        <CODORGAO><![CDATA[10734]]></CODORGAO>
+        <COMPLORGAO><![CDATA[ ]]></COMPLORGAO>
+        <ENDERECO><![CDATA[Praca Castro Alevs, 01]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[ ]]></COMPLENDERECO>
+        <FONE><![CDATA[(73)3295-2062]]></FONE>
+        <FAX><![CDATA[ ]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[ITANHEM]]></CIDADE>
+        <UF><![CDATA[BA]]></UF>
+        <EDITAL><![CDATA[34/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PR]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura]]></TPPRAZO>
+        <PRAZO><![CDATA[21/10/2016 08:30]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA EM CONCURSO PUBLICO PARA PREENCHIMENTO DE 
+VAGAS NO QUADRO DE SERVIDORES EFETIVOS E TEMPORARIOS DESTE MUNICIPIO.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[]]></SITE>
+	<LINK><![CDATA[
+
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7262912]]></PRODNUM>
+        <VERSAO><![CDATA[9487]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[Prefeitura Municipal de Londrina]]></ORGAO>
+        <CODORGAO><![CDATA[11083]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[www.bbmnet.com.br /www.londrina.pr.gov.br.]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(43) 3372-4401 /4477]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[LONDRINA]]></CIDADE>
+        <UF><![CDATA[PR]]></UF>
+        <EDITAL><![CDATA[189/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Abertura das Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[27/10/2016 13:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[UASG: 987667  PREGAO ELETRONICO -  PRESTACAO DE SERVICOS DE MONITORACAO DE DOSAGEM DE RADIACAO INDIVIDUAL, COM O FORNECIMENTO DE DOSIMETROS PESSOAIS, QUANTO PADRAO, ATRAVES DA APRESENTACAO DE LAUDOS TECNICOS, COMPROVANDO A DOSAGEM REGISTRADA DE RADIACAO PARA TECNICOS DE RAIOS-X DA AUTARQUIA MUNICIPAL DE SAUDE.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[UASG: 987667            {{25-644792}}]]></OBS>
+        <SITE><![CDATA[compras@londrina.pr.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasnet/2016/outubro/644792.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+<REGISTRO>
+        <PRODNUM><![CDATA[7270955]]></PRODNUM>
+        <VERSAO><![CDATA[9487]]></VERSAO>
+        <SITUACAO><![CDATA[Normal]]></SITUACAO>
+        <ORGAO><![CDATA[FAETEC-Fundacao de Apoio a Escola Tecnica]]></ORGAO>
+        <CODORGAO><![CDATA[6299]]></CODORGAO>
+        <COMPLORGAO><![CDATA[]]></COMPLORGAO>
+        <ENDERECO><![CDATA[www.compras.rj.gov.br/www.faetec.rj.gov.br]]></ENDERECO>
+        <COMPLENDERECO><![CDATA[]]></COMPLENDERECO>
+        <FONE><![CDATA[(021) 2332-4108.]]></FONE>
+        <FAX><![CDATA[]]></FAX>
+        <OBSORGAO><![CDATA[]]></OBSORGAO>
+        <CIDADE><![CDATA[Rio de Janeiro]]></CIDADE>
+        <UF><![CDATA[RJ]]></UF>
+        <EDITAL><![CDATA[15/2016]]></EDITAL>
+	<MODALIDADE><![CDATA[PE]]></MODALIDADE>
+	<TPPRAZO><![CDATA[Prazo para Entrega de Propostas]]></TPPRAZO>
+        <PRAZO><![CDATA[26/10/2016 10:00]]></PRAZO>
+        <VLESTIMADO><![CDATA[0,00]]></VLESTIMADO>
+        <OBJETO><![CDATA[CONTRATACAO DE EMPRESA ESPECIALIZADA PARA PRESTACAO DE SERVICOS DE PROCESSOS SELETIVOS DE INGRESSO ESCOLAR DA REDE DE ENSINO FAETEC, ENVOLVENDO A ORGANIZACAO, ELABORACAO, APLICACAO DE PROVAS, SEGURANCA, CADASTRO DE CANDIDATOS E TODA A LOGISTICA NECESSARIA.]]></OBJETO>
+        <PREDITAL><![CDATA[]]></PREDITAL>
+        <BANCOPG><![CDATA[]]></BANCOPG>
+        <OBS><![CDATA[]]></OBS>
+        <SITE><![CDATA[pregao@faetec.rj.gov.br]]></SITE>
+	<LINK><![CDATA[
+
+	http://www.licitacao.com.br/editais/comprasrj/2016/outubro/4703.zip *** 
+
+	]]></LINK>
+	</REGISTRO>
+
+</ARQUIVO>
