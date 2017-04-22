@@ -81,4 +81,30 @@ class ConfigRequest extends FormRequest
     }
 
 
+    public function blocks()
+    {
+        $data = $this->all();
+        $data['name'] = mb_strtoupper($data['name']);
+        SchoolBlocks::updateOrCreate(['id' => $data['id']],$data);
+        Session::flash('success', 'Operação realizada com sucesso');
+
+    }
+    public function floors()
+    {
+        $data = $this->all();
+        $data['name'] = mb_strtoupper($data['name']);
+        SchoolBlockFloors::updateOrCreate(['id' => $data['id']],$data);
+        Session::flash('success', 'Operação realizada com sucesso');
+
+    }
+
+    public function classrooms()
+    {
+        $data = $this->all();
+        $data['name'] = mb_strtoupper($data['name']);
+        SchoolBlockFloorClassrooms::updateOrCreate(['id' => $data['id']],$data);
+        Session::flash('success', 'Operação realizada com sucesso');
+
+    }
+
 }

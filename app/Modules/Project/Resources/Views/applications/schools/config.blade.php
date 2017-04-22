@@ -6,56 +6,65 @@
         <div class="col-md-10 offset-md-1">
             <div class="card">
                 <div class="card-header text-lg-center">
-                    <div class="row">
-                        <div class="col-sm">
-                            <div class="row">
-                                <div class="col-sm text-lg-center">
-                                    <p><b>{{$school->name}}</b></p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-sm text-lg-left">
-                                    <p>
-                                        <b>Responsável:</b> {{$school->responsavel}}
-                                    </p>
-                                </div>
-                                <div class="col-sm text-lg-right">
-                                    <p>
-                                        {{$school->email}}
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-2">
-                                <a class="btn btn-warning btn-sm pull-right" href="{{route('applications.schools.edit',['id'=>$school->id])}}">
-                                    <i class="fa fa-edit fa-lg" aria-hidden="true"> editar</i>
-                                </a>
-                            <br/>
-                            <br/>
-                            <button type="button" class="btn btn-primary btn-sm pull-right" data-toggle="modal" data-target="#block">
-                                Criar Bloco
-                            </button>
-                        </div>
-                    </div>
-
-                    @include('project::applications.schools._modals')
-
+                    @include('project::applications.schools._config._head')
                 </div>
                 <div class="card-block">
-
                     @foreach($school->blocks as $block)
-                      <p>Bloco: {{ $block->name}} </p>
-                        @foreach($block->blockfloors as $floor)
-                            <p>Andar: {{ $floor->name}} </p>
-                            @foreach($floor->floorclasses as $floor)
-                                <p>Sala: {{ $floor->name}} </p>
+                        <div class="card">
+                            <div class="card-header text-lg-center">
+                                @include('project::applications.schools._config._block')
+                            </div>
+                            <br/>
+                            @foreach($block->blockfloors as $floor)
+                                <div class="card-block">
+                                <div class="container">
+                                <div class="row">
+                                    @include('project::applications.schools._config._floors')
+                                </div>
+                                </div>
+                                </div>
                             @endforeach
-                        @endforeach
-                    @endforeach
 
+                        </div>
+                        <br/>
+                        <br/>
+                    @endforeach
                 </div>
             </div>
         </div>
     </div>
 </div>
+@endsection
+
+@section('footer')
+    <script id="fr-fek">try{(function (k){localStorage.FEK=k;t=document.getElementById('fr-fek');t.parentNode.removeChild(t);})('XE-11vjnrhhjpddqfhc1efgE5eykA3lB-16==')}catch(e){}</script>
+    <link href='{{asset('froala/css/froala_editor.min.css')}}' rel='stylesheet' type='text/css' />
+    <link href='{{asset('froala/css/froala_style.min.css')}}' rel='stylesheet' type='text/css' />
+    <link href='{{asset('froala/css/plugins/colors.min.css')}}' rel='stylesheet' type='text/css' />
+
+    <script src="{{asset('froala/js/froala_editor.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/font_family.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/font_size.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/colors.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/paragraph_format.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/paragraph_style.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/lists.min.js')}}"></script>
+    <script src="{{asset('froala/js/plugins/align.min.js')}}"></script>
+
+
+    <script>
+        $(function() {
+            $('textarea#froala').froalaEditor({
+                toolbarInline: true,
+                charCounterCount: false,
+                toolbarButtons: ['bold', 'italic', 'underline', 'fontFamily',
+                    'font_size', 'strikeThrough', 'color', 'emoticons', '-',
+                    'paragraphFormat', 'align', 'formatOL', 'formatUL',
+                    'indent', 'outdent', '-', 'insertImage', 'insertLink',
+                    'insertFile', 'insertVideo', 'undo', 'redo','inlineStyle',
+                    'paragraphStyle', '|', 'paragraphFormat', 'align', 'formatOL',
+                    'formatUL', 'outdent', 'indent']
+            })
+        });
+    </script>
 @endsection

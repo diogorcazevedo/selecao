@@ -120,12 +120,26 @@ Route::group(['prefix' => 'applications','middleware'=>'auth.checkrole:admin','a
 
 Route::group(['prefix' => 'applications','middleware'=>'auth.checkrole:admin','as'=>'applications.'], function() {
 
-    Route::any('schools/index',         ['as'=>'schools.index',      'uses'=> 'Applications\SchoolsController@index'])->middleware('can:permissao_gerente');
-    Route::get('schools/create',        ['as'=>'schools.create',     'uses'=> 'Applications\SchoolsController@create'])->middleware('can:permissao_gerente');
-    Route::post('schools/store',        ['as'=>'schools.store',      'uses'=> 'Applications\SchoolsController@store'])->middleware('can:permissao_gerente');
-    Route::get('schools/edit/{id}',     ['as'=>'schools.edit',       'uses'=> 'Applications\SchoolsController@edit'])->middleware('can:permissao_gerente');
-    Route::post('schools/update',       ['as'=>'schools.update',     'uses'=> 'Applications\SchoolsController@update'])->middleware('can:permissao_gerente');
-    Route::get('schools/destroy/{id}',  ['as'=>'schools.destroy',    'uses'=> 'Applications\SchoolsController@destroy'])->middleware('can:permissao_gerente');
-    Route::get('schools/config/{id}',   ['as'=>'schools.config',     'uses'=> 'Applications\SchoolsController@config'])->middleware('can:permissao_gerente');
-    Route::post('schools/make',          ['as'=>'schools.make',       'uses'=> 'Applications\SchoolsController@make'])->middleware('can:permissao_gerente');
+    Route::any('schools/index',                 ['as'=>'schools.index',             'uses'=> 'Applications\SchoolsController@index'])->middleware('can:permissao_gerente');
+    Route::get('schools/create',                ['as'=>'schools.create',            'uses'=> 'Applications\SchoolsController@create'])->middleware('can:permissao_gerente');
+    Route::post('schools/store',                ['as'=>'schools.store',             'uses'=> 'Applications\SchoolsController@store'])->middleware('can:permissao_gerente');
+    Route::get('schools/edit/{id}',             ['as'=>'schools.edit',              'uses'=> 'Applications\SchoolsController@edit'])->middleware('can:permissao_gerente');
+    Route::post('schools/update',               ['as'=>'schools.update',            'uses'=> 'Applications\SchoolsController@update'])->middleware('can:permissao_gerente');
+    Route::get('schools/config/{id}',           ['as'=>'schools.config',            'uses'=> 'Applications\SchoolsController@config'])->middleware('can:permissao_gerente');
+    Route::post('schools/make',                 ['as'=>'schools.make',              'uses'=> 'Applications\SchoolsController@make'])->middleware('can:permissao_gerente');
+    Route::post('schools/blocks',               ['as'=>'schools.blocks',            'uses'=> 'Applications\SchoolsController@blocks'])->middleware('can:permissao_gerente');
+    Route::post('schools/floors',               ['as'=>'schools.floors',            'uses'=> 'Applications\SchoolsController@floors'])->middleware('can:permissao_gerente');
+    Route::post('schools/classrooms',           ['as'=>'schools.classrooms',        'uses'=> 'Applications\SchoolsController@classrooms'])->middleware('can:permissao_gerente');
+
+    Route::get('schools/destroy/{id}',          ['as'=>'schools.destroy',           'uses'=> 'Applications\SchoolsController@destroy'])->middleware('can:permissao_gerente');
+    Route::get('schools/destroyblock/{id}',     ['as'=>'schools.destroyblock',      'uses'=> 'Applications\SchoolsController@destroyblock'])->middleware('can:permissao_gerente');
+    Route::get('schools/destroyfloor/{id}',     ['as'=>'schools.destroyfloor',      'uses'=> 'Applications\SchoolsController@destroyfloor'])->middleware('can:permissao_gerente');
+    Route::get('schools/destroyclassroom/{id}', ['as'=>'schools.destroyclassroom',  'uses'=> 'Applications\SchoolsController@destroyclassroom'])->middleware('can:permissao_gerente');
+
+    Route::get('schools/addfloor/{id}/{classes}',['as'=>'schools.addfloor',          'uses'=> 'Applications\SchoolsController@addfloor'])->middleware('can:permissao_gerente');
+    Route::get('schools/addclassroom/{id}',      ['as'=>'schools.addclassroom',      'uses'=> 'Applications\SchoolsController@addclassroom'])->middleware('can:permissao_gerente');
+
+
+
+
 });
