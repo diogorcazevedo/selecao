@@ -7,6 +7,32 @@ function arrayestados()
 
 }
 
+function arrayfloors()
+{
+    //$floors['']="Número de Andares";
+    $floors['1']="apenas térreo";
+
+    for ($i = 2; $i <= 100; $i++) {
+        $floors[$i]= $i;
+    }
+
+    return $floors;
+
+}
+
+function arrayzerocem()
+{
+
+    for ($i = 1; $i <= 100; $i++) {
+        $row[$i]= $i;
+    }
+
+    return $row;
+
+}
+
+
+
 function  slipnumbers($id){
 
 

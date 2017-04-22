@@ -25,4 +25,23 @@ class School extends Model
         'city',
         'state'
     ];
+
+    public function blocks()
+    {
+        return $this->hasMany(SchoolBlocks::class);
+
+    }
+
+    public function floors()
+    {
+        return $this->hasMany(SchoolBlockFloors::class);
+
+    }
+    public function classrooms()
+    {
+        return $this->hasMany(SchoolBlockFloorClassrooms::class);
+
+    }
+
+
 }

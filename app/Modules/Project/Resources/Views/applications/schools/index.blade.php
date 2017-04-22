@@ -45,8 +45,13 @@
                                     <td>{{$school->email}}</td>
                                     <td>{{$school->cel}}</td>
                                     <td class="text-lg-center">
-                                        <a class="btn btn-outline-blue-cavaleiros btn-sm" href="{{route('applications.schools.edit',['id'=>$school->id])}}">
+                                        <a class="btn btn-warning btn-sm" href="{{route('applications.schools.edit',['id'=>$school->id])}}">
                                             <i class="fa fa-edit fa-lg" aria-hidden="true"> editar</i>
+                                        </a>
+                                    </td>
+                                    <td class="text-lg-center">
+                                        <a class="btn btn-success btn-sm" href="{{route('applications.schools.config',['id'=>$school->id])}}">
+                                            <i class="fa fa-edit fa-lg" aria-hidden="true"> configurar</i>
                                         </a>
                                     </td>
                                 </tr>

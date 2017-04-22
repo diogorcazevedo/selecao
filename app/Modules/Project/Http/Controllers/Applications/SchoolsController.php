@@ -4,7 +4,8 @@
 namespace App\Modules\Project\Http\Controllers\Applications;
 
 use App\Http\Controllers\Controller;
-use App\Modules\Project\Http\Requests\SchoolRequest;
+use App\Modules\Project\Http\Requests\School\SchoolRequest;
+use App\Modules\Project\Http\Requests\School\ConfigRequest;
 use App\Modules\Project\Entities\School;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\URL;
@@ -66,6 +67,21 @@ class SchoolsController extends Controller
         Session::flash('success', 'Excluido com sucesso');
         return redirect()->back();
 
+    }
+
+    public function config($id)
+    {
+
+        $url = URL::previous();
+        $school = $this->school->find($id);
+        return view('project::applications.schools.config', compact('school','url'));
+
+    }
+
+    public function make(ConfigRequest $request)
+    {
+        $request->persist();
+        return redirect()->back();
     }
 
 }

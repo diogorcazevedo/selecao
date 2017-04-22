@@ -126,5 +126,6 @@ Route::group(['prefix' => 'applications','middleware'=>'auth.checkrole:admin','a
     Route::get('schools/edit/{id}',     ['as'=>'schools.edit',       'uses'=> 'Applications\SchoolsController@edit'])->middleware('can:permissao_gerente');
     Route::post('schools/update',       ['as'=>'schools.update',     'uses'=> 'Applications\SchoolsController@update'])->middleware('can:permissao_gerente');
     Route::get('schools/destroy/{id}',  ['as'=>'schools.destroy',    'uses'=> 'Applications\SchoolsController@destroy'])->middleware('can:permissao_gerente');
-
+    Route::get('schools/config/{id}',   ['as'=>'schools.config',     'uses'=> 'Applications\SchoolsController@config'])->middleware('can:permissao_gerente');
+    Route::post('schools/make',          ['as'=>'schools.make',       'uses'=> 'Applications\SchoolsController@make'])->middleware('can:permissao_gerente');
 });

@@ -31,14 +31,14 @@ Route::group(['prefix' => 'programs','middleware'=>'auth.checkrole:admin','as'=>
     Route::post('items/update/{id}',                  ['as'=>'items.update',         'uses'=> 'ProgramItemsController@update'])->middleware('can:permissao_gerente');
     Route::get('items/destroy/{id}',                  ['as'=>'items.destroy',        'uses'=> 'ProgramItemsController@destroy'])->middleware('can:permissao_gerente');
 
-
+/*
     Route::get('sub_items/index/{id}',                    ['as'=>'sub_items.index',          'uses'=> 'ProgramSubItemsController@index'])->middleware('can:permissao_gerente');
     Route::get('sub_items/create/{id}',                   ['as'=>'sub_items.create',         'uses'=> 'ProgramSubItemsController@create'])->middleware('can:permissao_gerente');
     Route::post('sub_items/store/{id}',                   ['as'=>'sub_items.store',          'uses'=> 'ProgramSubItemsController@store'])->middleware('can:permissao_gerente');
     Route::get('sub_items/edit/{item_id}',                ['as'=>'sub_items.edit',           'uses'=> 'ProgramSubItemsController@edit'])->middleware('can:permissao_gerente');
     Route::post('sub_items/update/{id}',                  ['as'=>'sub_items.update',         'uses'=> 'ProgramSubItemsController@update'])->middleware('can:permissao_gerente');
     Route::get('sub_items/destroy/{id}',                  ['as'=>'sub_items.destroy',        'uses'=> 'ProgramSubItemsController@destroy'])->middleware('can:permissao_gerente');
-
+*/
 });
 
 
